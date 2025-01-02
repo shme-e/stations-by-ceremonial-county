@@ -1,0 +1,2626 @@
+stationName,lat,long,crsCode,county
+Abbey Wood,"51.490719","0.120343",ABW,Greater London
+Acton Central,"51.508717","-0.263601",ACC,Greater London
+Acton Main Line,"51.516865","-0.26762",AML,Greater London
+Albany Park,"51.435745","0.126427",AYP,Greater London
+Alexandra Palace,"51.598225","-0.120129",AAP,Greater London
+Anerley,"51.41163","-0.064348",ANZ,Greater London
+Balham,"51.443169","-0.152403",BAL,Greater London
+Barking,"51.539982","0.080804",BKG,Greater London
+Barking Riverside,"51.519108","0.114764",BGV,Greater London
+Barnehurst,"51.464798","0.160885",BNH,Greater London
+Barnes Bridge,"51.471676","-0.252051",BNI,Greater London
+Barnes,"51.467014","-0.240711",BNS,Greater London
+Battersea Park,"51.477272","-0.148151",BAK,Greater London
+Beckenham Hill,"51.424767","-0.016497",BEC,Greater London
+Beckenham Junction,"51.411446","-0.027144",BKJ,Greater London
+Bellingham,"51.433826","-0.020421",BGM,Greater London
+Belmont,"51.344086","-0.199471",BLM,Greater London
+Belvedere,"51.491936","0.152088",BVD,Greater London
+Berrylands,"51.39838","-0.282157",BRS,Greater London
+Bethnal Green,"51.524406","-0.059747",BET,Greater London
+Bexley,"51.440742","0.148248",BXY,Greater London
+Bexleyheath,"51.463493","0.133471",BXH,Greater London
+Bickley,"51.40033","0.044272",BKL,Greater London
+Birkbeck,"51.403847","-0.056218",BIK,Greater London
+Blackheath,"51.465706","0.008317",BKH,Greater London
+Blackhorse Road,"51.586143","-0.04123",BHO,Greater London
+Bond Street,"51.514","-0.15",BDS,Greater London
+Bowes Park,"51.607216","-0.119761",BOP,Greater London
+Brentford,"51.487804","-0.309048",BFD,Greater London
+Brent Cross West,"51.5687","-0.2269",BCZ,Greater London
+Brimsdown,"51.655224","-0.031022",BMD,Greater London
+Brixton,"51.463245","-0.114164",BRX,Greater London
+Brockley,"51.464684","-0.037797",BCY,Greater London
+Bromley North,"51.408894","0.017325",BMN,Greater London
+Bromley South,"51.399887","0.018374",BMS,Greater London
+Brondesbury Park,"51.540896","-0.209955",BSP,Greater London
+Brondesbury,"51.545574","-0.203063",BSY,Greater London
+Bruce Grove,"51.592918","-0.06982",BCV,Greater London
+Bush Hill Park,"51.642365","-0.06916",BHK,Greater London
+Caledonian Road & Barnsbury,"51.543301","-0.115177",CIR,Greater London
+Cambridge Heath,"51.53157","-0.057997",CBH,Greater London
+Camden Road,"51.541889","-0.139764",CMD,Greater London
+Canada Water,"51.49823","-0.05076",ZCW,Greater London
+Canary Wharf,"51.5061","-0.01578",CWX,Greater London
+Canonbury,"51.548747","-0.091614",CNN,Greater London
+Carshalton,"51.367859","-0.16693",CSH,Greater London
+Carshalton Beeches,"51.357117","-0.17023",CSB,Greater London
+Castle Bar Park,"51.522865","-0.331575",CBP,Greater London
+Catford Bridge,"51.444725","-0.027142",CFB,Greater London
+Catford,"51.444706","-0.025701",CTF,Greater London
+Chadwell Heath,"51.567905","0.128263",CTH,Greater London
+Charlton,"51.486904","0.030852",CTN,Greater London
+Cheam,"51.35601","-0.2148",CHE,Greater London
+Chelsfield,"51.35603","0.108373",CLD,Greater London
+Chessington North,"51.364483","-0.300661",CSN,Greater London
+Chessington South,"51.356491","-0.308144",CSS,Greater London
+Chingford,"51.63385","0.009955",CHI,Greater London
+Chislehurst,"51.405506","0.057437",CIT,Greater London
+Chiswick,"51.4809","-0.267538",CHK,Greater London
+City Thameslink,"51.514336","-0.103412",CTK,Greater London
+Clapham High Street,"51.46534","-0.1328",CLP,Greater London
+Clapham Junction,"51.464134","-0.170281",CLJ,Greater London
+Clapton,"51.56213","-0.056685",CPT,Greater London
+Clock House,"51.408096","-0.041668",CLK,Greater London
+Coulsdon South,"51.315231","-0.13746",CDS,Greater London
+Coulsdon Town,"51.32243","-0.13429",CDN,Greater London
+Crayford,"51.448273","0.178826",CRY,Greater London
+Crews Hill,"51.684334","-0.106441",CWH,Greater London
+Cricklewood,"51.559227","-0.214071",CRI,Greater London
+Crofton Park,"51.454777","-0.03678",CFT,Greater London
+Crouch Hill,"51.571205","-0.116907",CRH,Greater London
+Crystal Palace,"51.417603","-0.072899",CYP,Greater London
+Custom House,"51.509639","0.025894",CUS,Greater London
+Dagenham Dock,"51.526237","0.14505",DDK,Greater London
+Dagenham East L.T.,"51.532065","0.146965",ZDE,Greater London
+Dalston Junction,"51.546139","-0.07544",DLJ,Greater London
+Dalston Kingsland,"51.548035","-0.074594",DLK,Greater London
+Denmark Hill,"51.468243","-0.089475",DMK,Greater London
+Deptford,"51.478897","-0.02711",DEP,Greater London
+Drayton Green,"51.516326","-0.330089",DRG,Greater London
+Drayton Park,"51.552124","-0.104723",DYP,Greater London
+Ealing Broadway,"51.51466","-0.300843",EAL,Greater London
+Ealing Common,"51.51","-0.28805",ZEC,Greater London
+Earl's Court L.T.,"51.49138","-0.1936",ZET,Greater London
+Earlsfield,"51.441929","-0.188423",EAD,Greater London
+East Croydon,"51.375679","-0.093335",ECR,Greater London
+East Dulwich,"51.460911","-0.081151",EDW,Greater London
+Eden Park,"51.390762","-0.026587",EDN,Greater London
+Edmonton Green,"51.623802","-0.059665",EDR,Greater London
+Elephant & Castle,"51.494469","-0.098462",EPH,Greater London
+Elmers End,"51.398335","-0.049263",ELE,Greater London
+Elmstead Woods,"51.417435","0.043594",ESD,Greater London
+Eltham,"51.455101","0.0496",ELW,Greater London
+Emerson Park,"51.56889","0.220658",EMP,Greater London
+Enfield Chase,"51.652607","-0.090404",ENC,Greater London
+Enfield Lock,"51.671379","-0.028875",ENL,Greater London
+Enfield Town,"51.651524","-0.078891",ENF,Greater London
+Erith,"51.481621","0.174651",ERH,Greater London
+Essex Road,"51.540302","-0.096552",EXR,Greater London
+Falconwood,"51.459087","0.078571",FCN,Greater London
+Farringdon,"51.520071","-0.104665",ZFD,Greater London
+Feltham,"51.447845","-0.40983",FEL,Greater London
+Finchley Road & Frognal,"51.550198","-0.183324",FNY,Greater London
+Finsbury Park,"51.564724","-0.105642",FPK,Greater London
+Forest Gate,"51.549976","0.023568",FOG,Greater London
+Forest Hill,"51.438869","-0.053297",FOH,Greater London
+Fulwell,"51.433525","-0.349893",FLW,Greater London
+Gidea Park,"51.581772","0.205411",GDP,Greater London
+Gipsy Hill,"51.424984","-0.084096",GIP,Greater London
+Goodmayes,"51.565502","0.112277",GMY,Greater London
+Gordon Hill,"51.66346","-0.094289",GDH,Greater London
+Gospel Oak,"51.555546","-0.150737",GPO,Greater London
+Grange Park,"51.642811","-0.096599",GPK,Greater London
+Greenford,"51.54235","-0.3463",GFD,Greater London
+Greenwich,"51.477779","-0.014198",GNW,Greater London
+Grove Park,"51.430389","0.022597",GRP,Greater London
+Gunnersbury,"51.491814","-0.275766",GUN,Greater London
+Hackbridge,"51.378437","-0.15358",HCB,Greater London
+Hackney Central,"51.546825","-0.055896",HKC,Greater London
+Hackney Downs,"51.548695","-0.060144",HAC,Greater London
+Hackney Wick,"51.543625","-0.025759",HKW,Greater London
+Hadley Wood,"51.668365","-0.176519",HDW,Greater London
+Haggerston,"51.53912","-0.07642",HGG,Greater London
+Hampstead Heath,"51.555779","-0.165159",HDH,Greater London
+Hampton,"51.41607","-0.37199",HMP,Greater London
+Hampton Wick,"51.41412","-0.313201",HMW,Greater London
+Hanwell,"51.511604","-0.338432",HAN,Greater London
+Harlesden,"51.536518","-0.258214",HDN,Greater London
+Harold Wood,"51.592907","0.234819",HRO,Greater London
+Harringay Green Lanes,"51.577336","-0.098104",HRY,Greater London
+Harringay,"51.577305","-0.105115",HGY,Greater London
+Harrow & Wealdstone,"51.591576","-0.334067",HRW,Greater London
+Harrow-on-the-Hill,"51.57931","-0.336628",HOH,Greater London
+Hatch End,"51.610054","-0.369499",HTE,Greater London
+Haydons Road,"51.425755","-0.189073",HYR,Greater London
+Hayes & Harlington,"51.502973","-0.420785",HAY,Greater London
+Hayes (Kent),"51.375744","0.010123",HYS,Greater London
+Headstone Lane,"51.60268","-0.356766",HDL,Greater London
+Heathrow Terminal 4 Rail,"51.458214","-0.445447",HAF,Greater London
+Heathrow Terminal 5 Rail,"51.47","-0.48",HWV,Greater London
+Heathrow Terminals 1-2-3 Rail,"51.471","-0.456",HXX,Greater London
+Hendon,"51.580057","-0.238652",HEN,Greater London
+Herne Hill,"51.453148","-0.101624",HNH,Greater London
+Highams Park,"51.608837","0.000183",HIP,Greater London
+Highbury & Islington,"51.54668","-0.10206",HHY,Greater London
+Hither Green,"51.452374","-0.000906",HGR,Greater London
+Homerton,"51.546535","-0.038601",HMN,Greater London
+Honor Oak Park,"51.450428","-0.045607",HPA,Greater London
+Hornsey,"51.586414","-0.111961",HRN,Greater London
+Hounslow,"51.462471","-0.361808",HOU,Greater London
+Hoxton,"51.53193","-0.07672",HOX,Greater London
+Ilford,"51.559078","0.068699",IFD,Greater London
+Imperial Wharf,"51.475134","-0.183026",IMW,Greater London
+Isleworth,"51.474709","-0.33689",ISL,Greater London
+Kenley,"51.324547","-0.101199",KLY,Greater London
+Kensal Green,"51.530602","-0.223847",KNL,Greater London
+Kensal Rise,"51.534157","-0.220811",KNR,Greater London
+Kensington Olympia,"51.497753","-0.210189",KPA,Greater London
+Kent House,"51.412659","-0.045786",KTH,Greater London
+Kentish Town,"51.550338","-0.140446",KTN,Greater London
+Kentish Town West,"51.546501","-0.146778",KTW,Greater London
+Kenton,"51.581436","-0.317123",KNT,Greater London
+Kew Bridge,"51.489311","-0.288827",KWB,Greater London
+Kew Gardens,"51.477558","-0.284949",KWG,Greater London
+Kidbrooke,"51.462662","0.028331",KDB,Greater London
+Kilburn High Road,"51.537312","-0.19186",KBN,Greater London
+Kingston,"51.412155","-0.301768",KNG,Greater London
+Knockholt,"51.34573","0.130865",KCK,Greater London
+Ladywell,"51.456291","-0.019445",LAD,Greater London
+Lea Bridge,"51.5672","-0.00363",LEB,Greater London
+Lee,"51.449432","0.013364",LEE,Greater London
+Lewisham,"51.466099","-0.014703",LEW,Greater London
+Leyton Midland Road,"51.569393","-0.007313",LEM,Greater London
+Leytonstone High Road,"51.563725","0.008304",LER,Greater London
+Limehouse,"51.51239","-0.040071",LHS,Greater London
+London Bridge,"51.505035","-0.085058",LBG,Greater London
+London Cannon Street,"51.510525","-0.090589",CST,Greater London
+London Charing Cross,"51.508362","-0.123835",CHX,Greater London
+London Euston,"51.528313","-0.134545",EUS,Greater London
+London Fenchurch Street,"51.511234","-0.079039",FST,Greater London
+London Fields,"51.541454","-0.057574",LOF,Greater London
+London Kings Cross,"51.530827","-0.122907",KGX,Greater London
+London Liverpool Street,"51.517551","-0.08021",LST,Greater London
+London Marylebone,"51.52248","-0.163605",MYB,Greater London
+London Paddington,"51.516014","-0.176049",PAD,Greater London
+London St Pancras International,"51.531921","-0.126361",STP,Greater London
+London Victoria,"51.4966","-0.1448",VIC,Greater London
+London Waterloo,"51.501865","-0.111126",WAT,Greater London
+London Waterloo East,"51.504513","-0.10814",WAE,Greater London
+Loughborough Junction,"51.46666","-0.102499",LGJ,Greater London
+Lower Sydenham,"51.425056","-0.033746",LSY,Greater London
+Malden Manor,"51.384579","-0.261118",MAL,Greater London
+Manor Park,"51.552296","0.045309",MNP,Greater London
+Maryland,"51.545784","0.006075",MYL,Greater London
+Maze Hill,"51.482883","0.003311",MZH,Greater London
+Meridian Water,"51.61","-0.0501",MRW,Greater London
+Mill Hill Broadway,"51.612823","-0.249522",MIL,Greater London
+Mitcham Eastfields,"51.407725","-0.154764",MTC,Greater London
+Mitcham Junction,"51.392887","-0.157308",MIJ,Greater London
+Moorgate,"51.5186","-0.09027",MOG,Greater London
+Morden South,"51.396248","-0.200299",MDS,Greater London
+Mortlake,"51.468288","-0.266575",MTL,Greater London
+Motspur Park,"51.395042","-0.23916",MOT,Greater London
+Mottingham,"51.439804","0.050353",MTG,Greater London
+New Barnet,"51.648521","-0.172972",NBA,Greater London
+New Beckenham,"51.416988","-0.035525",NBC,Greater London
+New Cross Gate,"51.475544","-0.041655",NXG,Greater London
+New Cross,"51.476299","-0.032984",NWX,Greater London
+New Eltham,"51.437649","0.0704",NEH,Greater London
+New Malden,"51.403393","-0.256084",NEM,Greater London
+New Southgate,"51.613876","-0.142586",NSG,Greater London
+Newbury Park,"51.57582","0.08971",ZNP,Greater London
+Norbiton,"51.411907","-0.284525",NBT,Greater London
+Norbury,"51.411236","-0.123492",NRB,Greater London
+North Dulwich,"51.454712","-0.087163",NDL,Greater London
+North Sheen,"51.464977","-0.285423",NSH,Greater London
+North Wembley,"51.562355","-0.303394",NWB,Greater London
+Northolt Park,"51.557762","-0.359827",NLT,Greater London
+Northumberland Park,"51.601643","-0.053558",NUM,Greater London
+Norwood Junction,"51.396965","-0.075201",NWD,Greater London
+Nunhead,"51.466747","-0.053546",NHD,Greater London
+Oakleigh Park,"51.637627","-0.166189",OKL,Greater London
+Old Street,"51.525776","-0.088515",OLD,Greater London
+Orpington,"51.373463","0.089049",ORP,Greater London
+Palmers Green,"51.618736","-0.109164",PAL,Greater London
+Peckham Rye,"51.470585","-0.067782",PMR,Greater London
+Penge East,"51.419125","-0.055566",PNE,Greater London
+Penge West,"51.417419","-0.061402",PNW,Greater London
+Petts Wood,"51.388996","0.075393",PET,Greater London
+Plumstead,"51.48959","0.082828",PLU,Greater London
+Ponders End,"51.642693","-0.034453",PON,Greater London
+Purley Oaks,"51.346989","-0.098843",PUO,Greater London
+Purley,"51.337334","-0.113592",PUR,Greater London
+Putney,"51.46125","-0.216463",PUT,Greater London
+Queens Park (London),"51.533916","-0.204966",QPW,Greater London
+Queens Road Peckham,"51.47401","-0.057553",QRP,Greater London
+Queenstown Road (Battersea),"51.474552","-0.146819",QRB,Greater London
+Rainham (Essex),"51.517449","0.190716",RNM,Greater London
+Ravensbourne,"51.413803","-0.0069",RVB,Greater London
+Raynes Park,"51.409294","-0.22998",RAY,Greater London
+Rectory Road,"51.55872","-0.068379",REC,Greater London
+Reedham (London),"51.332108","-0.123854",RHM,Greater London
+Richmond,"51.462505","-0.301346",RMD,Greater London
+Riddlesdown,"51.332611","-0.099436",RDD,Greater London
+Romford,"51.575016","0.181986",RMF,Greater London
+Rotherhithe,"51.50098","-0.05353",ROE,Greater London
+Sanderstead,"51.348694","-0.093017",SNR,Greater London
+Selhurst,"51.392704","-0.089759",SRS,Greater London
+Seven Kings,"51.563992","0.096325",SVK,Greater London
+Seven Sisters,"51.584007","-0.074521",SVS,Greater London
+Shadwell,"51.51093","-0.05743",SDE,Greater London
+Shepherds Bush,"51.506","-0.218",SPB,Greater London
+Shoreditch High Street,"51.523433","-0.075614",SDC,Greater London
+Shortlands,"51.405548","0.002798",SRT,Greater London
+Sidcup,"51.434361","0.103342",SID,Greater London
+Silver Street,"51.615364","-0.067415",SLV,Greater London
+Slade Green,"51.466957","0.189792",SGR,Greater London
+South Acton,"51.499813","-0.269697",SAT,Greater London
+South Bermondsey,"51.487446","-0.054101",SBM,Greater London
+South Croydon,"51.362194","-0.093903",SCY,Greater London
+South Greenford,"51.533339","-0.336403",SGN,Greater London
+South Hampstead,"51.541424","-0.178759",SOH,Greater London
+South Kenton,"51.56963","-0.308894",SOK,Greater London
+South Merton,"51.40353","-0.205764",SMO,Greater London
+South Ruislip,"51.556742","-0.398812",SRU,Greater London
+South Tottenham,"51.58036","-0.071788",STO,Greater London
+Southall,"51.505884","-0.378513",STL,Greater London
+Southbury,"51.648396","-0.052998",SBU,Greater London
+St Helier,"51.389935","-0.199115",SIH,Greater London
+St James Street,"51.580612","-0.032804",SJS,Greater London
+St Johns,"51.468937","-0.023225",SAJ,Greater London
+St Margarets (London),"51.454689","-0.320352",SMG,Greater London
+St Mary Cray,"51.394714","0.107269",SMY,Greater London
+Stamford Hill,"51.575035","-0.076343",SMH,Greater London
+Stoke Newington,"51.565079","-0.07244",SKW,Greater London
+Stonebridge Park,"51.543961","-0.275233",SBP,Greater London
+Stratford International,"51.544306","-0.009882",SFA,Greater London
+Stratford (London),"51.542358","-0.004175",SRA,Greater London
+Strawberry Hill,"51.439682","-0.339597",STW,Greater London
+Streatham Common,"51.418629","-0.136136",SRC,Greater London
+Streatham Hill,"51.43829","-0.128136",SRH,Greater London
+Streatham,"51.425755","-0.131535",STE,Greater London
+Sudbury & Harrow Road,"51.554459","-0.316676",SUD,Greater London
+Sudbury Hill Harrow,"51.558423","-0.336092",SDH,Greater London
+Sundridge Park,"51.413338","0.020402",SUP,Greater London
+Surbiton,"51.392406","-0.303942",SUR,Greater London
+Surrey Quays,"51.49279","0.048114",SQE,Greater London
+Sutton (London),"51.360126","-0.190223",SUO,Greater London
+Sutton Common,"51.375519","-0.196799",SUC,Greater London
+Sydenham Hill,"51.433002","-0.079444",SYH,Greater London
+Sydenham,"51.427208","-0.055232",SYD,Greater London
+Syon Lane,"51.481735","-0.325116",SYL,Greater London
+Teddington,"51.424294","-0.332965",TED,Greater London
+Thornton Heath,"51.399181","-0.100981",TTH,Greater London
+Tolworth,"51.37677","-0.280098",TOL,Greater London
+Tooting,"51.419914","-0.16053",TOO,Greater London
+Tottenham Court Road,"51.5162","-0.1309",TCR,Greater London
+Tottenham Hale,"51.588257","-0.059914",TOM,Greater London
+Tulse Hill,"51.439713","-0.10506",TUH,Greater London
+Turkey Street,"51.673481","-0.047594",TUR,Greater London
+Twickenham,"51.450321","-0.329136",TWI,Greater London
+Upminster,"51.559307","0.251938",UPM,Greater London
+Upper Holloway,"51.563652","-0.129293",UHL,Greater London
+Vauxhall,"51.485686","-0.124025",VXH,Greater London
+Waddon,"51.367062","-0.116688",WDO,Greater London
+Wallington,"51.360424","-0.151431",WLT,Greater London
+Walthamstow Central,"51.583092","-0.019715",WHC,Greater London
+Walthamstow Queens Road,"51.581367","-0.024113",WMW,Greater London
+Wandsworth Common,"51.446072","-0.165239",WSW,Greater London
+Wandsworth Road,"51.470829","-0.138332",WWR,Greater London
+Wandsworth Town,"51.460812","-0.187679",WNT,Greater London
+Wanstead Park,"51.551746","0.025089",WNP,Greater London
+Welling,"51.464966","0.101872",WLI,Greater London
+Wembley Central,"51.551468","-0.296592",WMB,Greater London
+Wembley Stadium,"51.553993","-0.284958",WCX,Greater London
+West Brompton,"51.487289","-0.195265",WBP,Greater London
+West Croydon,"51.378517","-0.101844",WCY,Greater London
+West Drayton,"51.509827","-0.472515",WDT,Greater London
+West Dulwich,"51.440388","-0.090646",WDU,Greater London
+West Ealing,"51.513123","-0.320792",WEA,Greater London
+West Ham,"51.528709","0.005323",WEH,Greater London
+West Hampstead,"51.54711","-0.191016",WHD,Greater London
+West Hampstead Thameslink,"51.548644","-0.1924",WHP,Greater London
+West Norwood,"51.431583","-0.102517",WNW,Greater London
+West Ruislip,"51.569708","-0.437812",WRU,Greater London
+West Sutton,"51.365734","-0.20437",WSU,Greater London
+West Wickham,"51.381577","-0.015495",WWI,Greater London
+Westcombe Park,"51.484428","0.017787",WCB,Greater London
+White Hart Lane,"51.604622","-0.070759",WHL,Greater London
+Whitechapel,"51.519091","-0.061404",ZLW,Greater London
+Whitton,"51.447109","-0.356607",WTN,Greater London
+Willesden Junction,"51.5322","-0.2435",WIJ,Greater London
+Wimbledon Chase,"51.409958","-0.214138",WBO,Greater London
+Wimbledon,"51.421528","-0.206496",WIM,Greater London
+Winchmore Hill,"51.633896","-0.101314",WIH,Greater London
+Wood Street,"51.587284","-0.00221",WST,Greater London
+Woodgrange Park,"51.548706","0.04514",WGR,Greater London
+Woolwich,"51.491578","0.071819",WWC,Greater London
+Woolwich Arsenal,"51.489815","0.069883",WWA,Greater London
+Woolwich Dockyard,"51.49099","0.054083",WWD,Greater London
+Worcester Park,"51.381649","-0.245415",WCP,Greater London
+Altrincham,"53.3874","-2.347212",ALT,Greater Manchester
+Ardwick,"53.47134","-2.213893",ADK,Greater Manchester
+Ashburys,"53.471761","-2.194991",ABY,Greater Manchester
+Ashton-Under-Lyne,"53.491264","-2.093415",AHN,Greater Manchester
+Atherton,"53.528817","-2.478683",ATN,Greater Manchester
+Belle Vue,"53.462181","-2.180809",BLV,Greater Manchester
+Blackrod,"53.591522","-2.56954",BLK,Greater Manchester
+Bolton,"53.573983","-2.425661",BON,Greater Manchester
+Bramhall,"53.359959","-2.162249",BML,Greater Manchester
+Bredbury,"53.422939","-2.109823",BDY,Greater Manchester
+Brinnington,"53.431881","-2.134097",BNT,Greater Manchester
+Broadbottom,"53.440968","-2.01653",BDB,Greater Manchester
+Bromley Cross,"53.613743","-2.409614",BMC,Greater Manchester
+Bryn,"53.499893","-2.647233",BYN,Greater Manchester
+Burnage,"53.421205","-2.215896",BNA,Greater Manchester
+Castleton,"53.591804","-2.178125",CAS,Greater Manchester
+Chassen Road,"53.44605","-2.368171",CSR,Greater Manchester
+Cheadle Hulme,"53.375956","-2.188125",CHU,Greater Manchester
+Clifton,"53.522503","-2.314811",CLI,Greater Manchester
+Daisy Hill,"53.539389","-2.516212",DSY,Greater Manchester
+Davenport,"53.390719","-2.153234",DVN,Greater Manchester
+Deansgate,"53.473961","-2.250061",DGT,Greater Manchester
+Denton,"53.457087","-2.131648",DTN,Greater Manchester
+East Didsbury,"53.410206","-2.22111",EDY,Greater Manchester
+Eccles,"53.485443","-2.333014",ECC,Greater Manchester
+Fairfield,"53.471215","-2.14581",FRF,Greater Manchester
+Farnworth,"53.549999","-2.387857",FNW,Greater Manchester
+Flixton,"53.443746","-2.383878",FLI,Greater Manchester
+Flowery Field,"53.461737","-2.080965",FLF,Greater Manchester
+Gathurst,"53.559399","-2.694418",GST,Greater Manchester
+Gatley,"53.394001","-2.230052",GTY,Greater Manchester
+Godley,"53.448151","-2.049649",GDL,Greater Manchester
+Gorton,"53.468712","-2.167182",GTO,Greater Manchester
+Greenfield,"53.538835","-2.014189",GNF,Greater Manchester
+Guide Bridge,"53.474171","-2.112961",GUI,Greater Manchester
+Hag Fold,"53.533442","-2.493744",HGF,Greater Manchester
+Hale,"53.378669","-2.347383",HAL,Greater Manchester
+Hall i' th' Wood,"53.597546","-2.413986",HID,Greater Manchester
+Hattersley,"53.445126","-2.040324",HTY,Greater Manchester
+Hazel Grove,"53.377415","-2.122121",HAZ,Greater Manchester
+Heald Green,"53.369248","-2.236533",HDG,Greater Manchester
+Heaton Chapel,"53.425556","-2.179046",HTC,Greater Manchester
+Hindley,"53.542053","-2.574909",HIN,Greater Manchester
+Horwich Parkway,"53.579948","-2.543712",HWI,Greater Manchester
+Humphrey Park,"53.452321","-2.327363",HUP,Greater Manchester
+Hyde Central,"53.451682","-2.085149",HYC,Greater Manchester
+Hyde North,"53.464306","-2.085829",HYT,Greater Manchester
+Ince,"53.538975","-2.611865",INC,Greater Manchester
+Irlam,"53.434172","-2.432989",IRL,Greater Manchester
+Kearsley,"53.54419","-2.375032",KSL,Greater Manchester
+Levenshulme,"53.444405","-2.192676",LVM,Greater Manchester
+Littleborough,"53.642988","-2.094698",LTL,Greater Manchester
+Lostock,"53.572969","-2.494276",LOT,Greater Manchester
+Manchester Airport,"53.361568","-2.268941",MIA,Greater Manchester
+Manchester Oxford Road,"53.47398","-2.242531",MCO,Greater Manchester
+Manchester Piccadilly,"53.476704","-2.228991",MAN,Greater Manchester
+Manchester United Football Club,"53.463056","-2.291389",MUF,Greater Manchester
+Manchester Victoria,"53.487465","-2.242607",MCV,Greater Manchester
+Marple,"53.400763","-2.057168",MPL,Greater Manchester
+Mauldeth Road,"53.432984","-2.209325",MAU,Greater Manchester
+Mills Hill,"53.551393","-2.171484",MIH,Greater Manchester
+Moorside,"53.516354","-2.35146",MSD,Greater Manchester
+Moses Gate,"53.55604","-2.400931",MSS,Greater Manchester
+Mossley (Manchester),"53.514963","-2.041263",MSL,Greater Manchester
+Moston,"53.52264","-2.171925",MSO,Greater Manchester
+Navigation Road,"53.395412","-2.3435",NVR,Greater Manchester
+Newton for Hyde,"53.45623","-2.067735",NWN,Greater Manchester
+Newton Heath and Moston,"53.50375","-2.1854",NMM,Greater Manchester
+Orrell,"53.530548","-2.709028",ORR,Greater Manchester
+Patricroft,"53.484745","-2.357919",PAT,Greater Manchester
+Pemberton,"53.530427","-2.670225",PEM,Greater Manchester
+Reddish North,"53.448956","-2.15656",RDN,Greater Manchester
+Reddish South,"53.435873","-2.159028",RDS,Greater Manchester
+Rochdale,"53.610293","-2.153444",RCD,Greater Manchester
+Romiley,"53.414026","-2.089307",RML,Greater Manchester
+Rose Hill Marple,"53.396176","-2.076502",RSH,Greater Manchester
+Ryder Brow,"53.457916","-2.176173",RRB,Greater Manchester
+Salford Central,"53.482913","-2.254686",SFD,Greater Manchester
+Salford Crescent,"53.486462","-2.275715",SLD,Greater Manchester
+Smithy Bridge,"53.633266","-2.113394",SMB,Greater Manchester
+Stalybridge,"53.484471","-2.06264",SYB,Greater Manchester
+Stockport,"53.4049","-2.162419",SPT,Greater Manchester
+Strines,"53.374932","-2.033544",SRN,Greater Manchester
+Swinton (Manchester),"53.514822","-2.337384",SNN,Greater Manchester
+Trafford Park,"53.454899","-2.310836",TRA,Greater Manchester
+Urmston,"53.448203","-2.35344",URM,Greater Manchester
+Walkden,"53.520313","-2.395128",WKD,Greater Manchester
+Westhoughton,"53.555775","-2.523773",WHG,Greater Manchester
+Wigan North Western,"53.543564","-2.632287",WGN,Greater Manchester
+Wigan Wallgate,"53.545353","-2.633814",WGW,Greater Manchester
+Woodley,"53.429245","-2.093275",WLY,Greater Manchester
+Woodsmoor,"53.386055","-2.1413",WSR,Greater Manchester
+Aigburth,"53.364614","-2.927041",AIG,Merseyside
+Ainsdale,"53.601818","-3.042691",ANS,Merseyside
+Aintree,"53.473995","-2.956687",AIN,Merseyside
+Bank Hall,"53.437357","-2.987509",BAH,Merseyside
+Bebington,"53.357651","-3.003659",BEB,Merseyside
+Bidston,"53.40913","-3.078589",BID,Merseyside
+Birkdale,"53.633514","-3.014742",BDL,Merseyside
+Birkenhead Central,"53.388244","-3.020897",BKC,Merseyside
+Birkenhead Hamilton Square,"53.39469","-3.01365",BKQ,Merseyside
+Birkenhead North,"53.404819","-3.057425",BKN,Merseyside
+Birkenhead Park,"53.397417","-3.03927",BKP,Merseyside
+Blundellsands & Crosby,"53.487675","-3.039889",BLN,Merseyside
+Bootle New Strand,"53.453357","-2.994676",BNW,Merseyside
+Bootle Oriel Road,"53.446559","-2.995791",BOT,Merseyside
+Broad Green,"53.40654","-2.893267",BGE,Merseyside
+Bromborough Rake,"53.329899","-2.989644",BMR,Merseyside
+Bromborough,"53.322146","-2.987058",BOM,Merseyside
+Brunswick,"53.382153","-2.975665",BRW,Merseyside
+Conway Park,"53.386219","-3.026886",CNP,Merseyside
+Cressington,"53.3588","-2.91172",CSG,Merseyside
+Earlestown,"53.451139","-2.637674",ERL,Merseyside
+Eastham Rake,"53.307532","-2.9812",ERA,Merseyside
+Eccleston Park,"53.430665","-2.780555",ECL,Merseyside
+Edge Hill,"53.402663","-2.946986",EDG,Merseyside
+Fazakerley,"53.469063","-2.936729",FAZ,Merseyside
+Formby,"53.553796","-3.070706",FBY,Merseyside
+Freshfield,"53.566494","-3.072014",FRE,Merseyside
+Garswood,"53.488518","-2.672149",GSW,Merseyside
+Green Lane,"53.38271","-3.016281",GNL,Merseyside
+Halewood,"53.364466","-2.830149",HED,Merseyside
+Hall Road,"53.497442","-3.049607",HLR,Merseyside
+Headbolt Lane,"53.492835","-2.878862",HBL,Merseyside
+Heswall,"53.32917","-3.073568",HSW,Merseyside
+Hightown,"53.525272","-3.057407",HTO,Merseyside
+Hillside,"53.62217","-3.024673",HIL,Merseyside
+Hoylake,"53.390202","-3.178861",HYK,Merseyside
+Hunts Cross,"53.360644","-2.855716",HNX,Merseyside
+Huyton,"53.409813","-2.842991",HUY,Merseyside
+James Street,"53.404748","-2.991993",LVJ,Merseyside
+Kirkby,"53.486619","-2.902021",KIR,Merseyside
+Kirkdale,"53.440896","-2.981093",KKD,Merseyside
+Lea Green,"53.42709","-2.72386",LEG,Merseyside
+Leasowe,"53.408035","-3.099624",LSW,Merseyside
+Liverpool Central,"53.40525","-2.977841",LVC,Merseyside
+Liverpool Lime Street,"53.407299","-2.977746",LIV,Merseyside
+Liverpool South Parkway,"53.3577","-2.8897",LPY,Merseyside
+Maghull,"53.506464","-2.930828",MAG,Merseyside
+Maghull North,"53.5167","-2.9213",MNS,Merseyside
+Manor Road,"53.394772","-3.171468",MNR,Merseyside
+Meols,"53.399356","-3.15431",MEO,Merseyside
+Meols Cop,"53.645519","-2.975696",MEC,Merseyside
+Moorfields,"53.408534","-2.989182",MRF,Merseyside
+Moreton (Merseyside),"53.407917","-3.113156",MRT,Merseyside
+Mossley Hill,"53.379025","-2.915464",MSH,Merseyside
+New Brighton,"53.43726","-3.049191",NBN,Merseyside
+Newton-Le-Willows,"53.452873","-2.614369",NLW,Merseyside
+Old Roan,"53.486871","-2.951095",ORN,Merseyside
+Orrell Park,"53.461991","-2.962908",OPK,Merseyside
+Port Sunlight,"53.349123","-2.998248",PSL,Merseyside
+Prescot,"53.423535","-2.799022",PSC,Merseyside
+Rainford,"53.51694","-2.789454",RNF,Merseyside
+Rainhill,"53.417129","-2.766398",RNH,Merseyside
+Rice Lane,"53.457738","-2.962253",RIL,Merseyside
+Roby,"53.410034","-2.855956",ROB,Merseyside
+Rock Ferry,"53.372269","-3.010898",RFY,Merseyside
+Sandhills,"53.430021","-2.9915",SDL,Merseyside
+Seaforth & Litherland,"53.466336","-3.005619",SFL,Merseyside
+Southport,"53.646597","-3.002229",SOP,Merseyside
+Spital,"53.339869","-2.993903",SPI,Merseyside
+St Helens Central,"53.453117","-2.730328",SNH,Merseyside
+St Helens Junction,"53.433525","-2.699892",SHJ,Merseyside
+St Michaels,"53.375649","-2.952704",STM,Merseyside
+Thatto Heath,"53.436585","-2.759419",THH,Merseyside
+Upton,"53.385712","-3.084013",UPT,Merseyside
+Wallasey Grove Road,"53.428049","-3.06982",WLG,Merseyside
+Wallasey Village,"53.422695","-3.069901",WLV,Merseyside
+Walton (Merseyside),"53.456346","-2.965794",WAO,Merseyside
+Waterloo (Merseyside),"53.474968","-3.025532",WLO,Merseyside
+Wavertree Technology Park,"53.405132","-2.922964",WAV,Merseyside
+West Allerton,"53.36912","-2.907",WSA,Merseyside
+West Kirby,"53.373171","-3.183771",WKI,Merseyside
+Whiston,"53.413932","-2.796407",WHN,Merseyside
+Adwick,"53.572994","-1.181465",AWK,South Yorkshire
+Barnsley,"53.553978","-1.477688",BNY,South Yorkshire
+Bentley (South Yorkshire),"53.542865","-1.148788",BYK,South Yorkshire
+Bolton-On-Dearne,"53.518986","-1.312217",BTD,South Yorkshire
+Chapeltown,"53.464046","-1.466743",CLN,South Yorkshire
+Conisbrough,"53.48885","-1.234333",CNS,South Yorkshire
+Darnall,"53.381084","-1.410661",DAN,South Yorkshire
+Darton,"53.58836","-1.531646",DRT,South Yorkshire
+Dodworth,"53.545216","-1.530617",DOD,South Yorkshire
+Doncaster,"53.521469","-1.140225",DON,South Yorkshire
+Dore & Totley,"53.327625","-1.514997",DOR,South Yorkshire
+Elsecar,"53.498924","-1.428617",ELR,South Yorkshire
+Goldthorpe,"53.533379","-1.313488",GOE,South Yorkshire
+Hatfield & Stainforth,"53.589532","-1.020931",HFS,South Yorkshire
+Kirk Sandall,"53.56347","-1.075006",KKS,South Yorkshire
+Kiveton Bridge,"53.340729","-1.265524",KIV,South Yorkshire
+Kiveton Park,"53.336975","-1.240052",KVP,South Yorkshire
+Meadowhall,"53.417046","-1.411669",MHS,South Yorkshire
+Mexborough,"53.490986","-1.28855",MEX,South Yorkshire
+Penistone,"53.525757","-1.62134",PNS,South Yorkshire
+Rotherham Central,"53.429356","-1.358811",RMC,South Yorkshire
+Sheffield,"53.378639","-1.463297",SHF,South Yorkshire
+Silkstone Common,"53.537239","-1.560883",SLK,South Yorkshire
+Swinton (South Yorks),"53.487484","-1.305195",SWN,South Yorkshire
+Thorne North,"53.616329","-0.972006",TNN,South Yorkshire
+Thorne South,"53.602707","-0.957227",TNS,South Yorkshire
+Thurnscoe,"53.545033","-1.308775",THC,South Yorkshire
+Wombwell,"53.517754","-1.417811",WOM,South Yorkshire
+Woodhouse,"53.364639","-1.358278",WDH,South Yorkshire
+Blaydon,"54.965813","-1.712578",BLO,Tyne and Wear
+Brockley Whins,"54.958672","-1.462749",BNR,Tyne and Wear
+Dunston,"54.952164","-1.648648",DOT,Tyne and Wear
+East Boldon,"54.9468","-1.420767",EBL,Tyne and Wear
+Fellgate,"54.957","-1.4878",FEG,Tyne and Wear
+Heworth,"54.951862","-1.554976",HEW,Tyne and Wear
+Manors,"54.972698","-1.606296",MAS,Tyne and Wear
+Metrocentre,"54.958492","-1.662656",MCE,Tyne and Wear
+Newcastle,"54.968243","-1.617264",NCL,Tyne and Wear
+Newcastle Airport,"55.03588","-1.71209",APN,Tyne and Wear
+Seaburn,"54.929558","-1.38667",SEB,Tyne and Wear
+St Peters,"54.91066","-1.38387",STZ,Tyne and Wear
+Stadium of Light,"54.917837","-1.383751",STI,Tyne and Wear
+Sunderland,"54.90617","-1.382357",SUN,Tyne and Wear
+Acocks Green,"52.449291","-1.81898",ACG,West Midlands
+Adderley Park,"52.483505","-1.854184",ADD,West Midlands
+Aston,"52.505104","-1.871788",AST,West Midlands
+Berkswell,"52.395851","-1.642845",BKW,West Midlands
+Bescot Stadium,"52.562702","-1.991116",BSC,West Midlands
+Birmingham International,"52.450673","-1.725149",BHI,West Midlands
+Birmingham Moor Street,"52.479053","-1.892483",BMO,West Midlands
+Birmingham New Street,"52.478153","-1.898375",BHM,West Midlands
+Birmingham Snow Hill,"52.483555","-1.899833",BSW,West Midlands
+Bloxwich North,"52.625637","-2.019173",BWN,West Midlands
+Bloxwich,"52.61853","-2.011783",BLX,West Midlands
+Bordesley,"52.471844","-1.877771",BBS,West Midlands
+Bournville,"52.426937","-1.926434",BRV,West Midlands
+Butlers Lane,"52.592376","-1.838163",BUL,West Midlands
+Canley,"52.399418","-1.547232",CNL,West Midlands
+Chester Road,"52.535575","-1.832582",CRD,West Midlands
+Coseley,"52.545738","-2.086051",CSY,West Midlands
+Coventry,"52.400787","-1.513466",COV,West Midlands
+Coventry Arena,"52.447032","-1.494559",CAA,West Midlands
+Cradley Heath,"52.469177","-2.08976",CRA,West Midlands
+Dorridge,"52.371861","-1.753209",DDG,West Midlands
+Duddeston,"52.488018","-1.871842",DUD,West Midlands
+Dudley Port,"52.524517","-2.049401",DDP,West Midlands
+Erdington,"52.528435","-1.839297",ERD,West Midlands
+Five Ways,"52.470078","-1.913116",FWY,West Midlands
+Four Oaks,"52.579662","-1.8273",FOK,West Midlands
+Gravelly Hill,"52.514969","-1.852612",GVH,West Midlands
+Hall Green,"52.436745","-1.845513",HLG,West Midlands
+Hampton-In-Arden,"52.428375","-1.699934",HIA,West Midlands
+Hamstead,"52.530718","-1.92838",HSD,West Midlands
+Jewellery Quarter,"52.489514","-1.913522",JEQ,West Midlands
+Kings Norton,"52.413456","-1.933801",KNN,West Midlands
+Langley Green,"52.494385","-2.005857",LGG,West Midlands
+Lea Hall,"52.480709","-1.786457",LEH,West Midlands
+Longbridge,"52.396385","-1.980861",LOB,West Midlands
+Lye,"52.459267","-2.116233",LYE,West Midlands
+Marston Green,"52.467159","-1.755616",MGN,West Midlands
+Northfield,"52.408073","-1.96469",NFD,West Midlands
+Old Hill,"52.470993","-2.055913",OHL,West Midlands
+Olton,"52.43848","-1.804313",OLT,West Midlands
+Perry Barr,"52.516361","-1.90196",PRY,West Midlands
+Rowley Regis,"52.477299","-2.030885",ROW,West Midlands
+Sandwell & Dudley,"52.508431","-2.011281",SAD,West Midlands
+Selly Oak,"52.441322","-1.936708",SLY,West Midlands
+Shirley,"52.403473","-1.845632",SRL,West Midlands
+Small Heath,"52.46283","-1.858673",SMA,West Midlands
+Smethwick Galton Bridge,"52.501826","-1.980632",SGB,West Midlands
+Smethwick Rolfe Street,"52.49632","-1.969885",SMR,West Midlands
+Solihull,"52.415081","-1.78972",SOL,West Midlands
+Spring Road,"52.44392","-1.83666",SRI,West Midlands
+Stechford,"52.485241","-1.810006",SCF,West Midlands
+Stourbridge Junction,"52.447563","-2.133857",SBJ,West Midlands
+Stourbridge Town,"52.456539","-2.142716",SBT,West Midlands
+Sutton Coldfield,"52.565269","-1.824404",SUT,West Midlands
+Tame Bridge Parkway,"52.551022","-1.974899",TAB,West Midlands
+The Hawthorns,"52.505165","-1.96313",THW,West Midlands
+Tile Hill,"52.394798","-1.594357",THL,West Midlands
+Tipton,"52.53039","-2.065499",TIP,West Midlands
+Tyseley,"52.453819","-1.839568",TYS,West Midlands
+University (Birmingham),"52.451218","-1.936691",UNI,West Midlands
+Walsall,"52.584282","-1.98521",WSL,West Midlands
+Whitlocks End,"52.3918","-1.851545",WTE,West Midlands
+Widney Manor,"52.396175","-1.773647",WMR,West Midlands
+Witton,"52.51141","-1.883566",WTT,West Midlands
+Wolverhampton,"52.587818","-2.119529",WVH,West Midlands
+Wylde Green,"52.545599","-1.831461",WYL,West Midlands
+Yardley Wood,"52.421478","-1.854396",YRD,West Midlands
+Apperley Bridge,"53.84138","-1.703065",APY,West Yorkshire
+Baildon,"53.849682","-1.753717",BLD,West Yorkshire
+Batley,"53.709129","-1.622734",BTL,West Yorkshire
+Ben Rhydding,"53.926167","-1.797429",BEY,West Yorkshire
+Berry Brow,"53.622368","-1.797371",BBW,West Yorkshire
+Bingley,"53.84803","-1.837327",BIY,West Yorkshire
+Bradford Forster Square,"53.79575","-1.752505",BDQ,West Yorkshire
+Bradford Interchange,"53.791196","-1.749701",BDI,West Yorkshire
+Bramley (West Yorkshire),"53.803532","-1.630985",BLE,West Yorkshire
+Brighouse,"53.698734","-1.781855",BGH,West Yorkshire
+Brockholes,"53.597149","-1.770299",BHS,West Yorkshire
+Burley Park,"53.808743","-1.576277",BUY,West Yorkshire
+Burley-In-Wharfedale,"53.908112","-1.753363",BUW,West Yorkshire
+Castleford,"53.724171","-1.355852",CFD,West Yorkshire
+Cottingley,"53.767437","-1.588832",COT,West Yorkshire
+Cross Gates,"53.804638","-1.451798",CRG,West Yorkshire
+Crossflatts,"53.858829","-1.844886",CFL,West Yorkshire
+Deighton,"53.669018","-1.751739",DHN,West Yorkshire
+Denby Dale,"53.572628","-1.663215",DBD,West Yorkshire
+Dewsbury,"53.692089","-1.633487",DEW,West Yorkshire
+East Garforth,"53.791622","-1.363933",EGF,West Yorkshire
+Featherstone,"53.679253","-1.359562",FEA,West Yorkshire
+Fitzwilliam,"53.632587","-1.375391",FZW,West Yorkshire
+Frizinghall,"53.820957","-1.769072",FZH,West Yorkshire
+Garforth,"53.796211","-1.382083",GRF,West Yorkshire
+Glasshoughton,"53.70884","-1.34247",GLH,West Yorkshire
+Guiseley,"53.875668","-1.715537",GSY,West Yorkshire
+Halifax,"53.720417","-1.854486",HFX,West Yorkshire
+Headingley,"53.817787","-1.59289",HDY,West Yorkshire
+Hebden Bridge,"53.737587","-2.009063",HBD,West Yorkshire
+Honley,"53.608849","-1.780814",HOY,West Yorkshire
+Horsforth,"53.847576","-1.630612",HRS,West Yorkshire
+Huddersfield,"53.648407","-1.785142",HUD,West Yorkshire
+Ilkley,"53.925304","-1.821799",ILK,West Yorkshire
+Keighley,"53.86787","-1.90112",KEI,West Yorkshire
+Kirkstall Forge,"53.826","-1.62",KLF,West Yorkshire
+Knottingley,"53.706528","-1.259172",KNO,West Yorkshire
+Leeds,"53.795158","-1.549089",LDS,West Yorkshire
+Lockwood,"53.635849","-1.800335",LCK,West Yorkshire
+Low Moor,"53.74924","-1.750517",LMR,West Yorkshire
+Marsden,"53.602737","-1.93197",MSN,West Yorkshire
+Menston,"53.891895","-1.735205",MNN,West Yorkshire
+Micklefield,"53.788715","-1.324507",MIK,West Yorkshire
+Mirfield,"53.671577","-1.692696",MIR,West Yorkshire
+Moorthorpe,"53.594452","-1.304952",MRP,West Yorkshire
+Morley,"53.75037","-1.592033",MLY,West Yorkshire
+Mytholmroyd,"53.729496","-1.981773",MYT,West Yorkshire
+New Pudsey,"53.804573","-1.679581",NPD,West Yorkshire
+Normanton,"53.700249","-1.424378",NOR,West Yorkshire
+Outwood,"53.714115","-1.512068",OUT,West Yorkshire
+Pontefract Baghill,"53.691517","-1.303355",PFR,West Yorkshire
+Pontefract Monkhill,"53.698711","-1.304749",PFM,West Yorkshire
+Pontefract Tanshelf,"53.694313","-1.319964",POT,West Yorkshire
+Ravensthorpe,"53.675964","-1.653298",RVN,West Yorkshire
+Saltaire,"53.838066","-1.790246",SAE,West Yorkshire
+Sandal & Agbrigg,"53.664574","-1.485404",SNA,West Yorkshire
+Shepley,"53.588913","-1.703863",SPY,West Yorkshire
+Shipley,"53.833553","-1.773558",SHY,West Yorkshire
+Slaithwaite,"53.624275","-1.87901",SWT,West Yorkshire
+South Elmsall,"53.595234","-1.285286",SES,West Yorkshire
+Sowerby Bridge,"53.707886","-1.90756",SOW,West Yorkshire
+Steeton & Silsden,"53.900257","-1.946704",SON,West Yorkshire
+Stocksmoor,"53.594349","-1.723478",SSM,West Yorkshire
+Streethouse,"53.676158","-1.399346",SHC,West Yorkshire
+Todmorden,"53.713612","-2.099977",TOD,West Yorkshire
+Wakefield Kirkgate,"53.67897","-1.488254",WKK,West Yorkshire
+Wakefield Westgate,"53.681736","-1.506386",WKF,West Yorkshire
+Walsden,"53.696056","-2.104719",WDN,West Yorkshire
+Woodlesford,"53.756969","-1.443328",WDS,West Yorkshire
+Battersby,"54.457687","-1.092945",BTT,North Yorkshire
+Bentham,"54.115791","-2.510918",BEN,North Yorkshire
+Castleton Moor,"54.467297","-0.947707",CSM,North Yorkshire
+Cattal,"53.997515","-1.319808",CTL,North Yorkshire
+Church Fenton,"53.827671","-1.226652",CHF,North Yorkshire
+Clapham (North Yorkshire),"54.105392","-2.409858",CPY,North Yorkshire
+Commondale,"54.481018","-0.97514",COM,North Yorkshire
+Cononley,"53.917351","-2.010631",CEY,North Yorkshire
+Danby,"54.466068","-0.910704",DNY,North Yorkshire
+Egton,"54.437679","-0.761896",EGT,North Yorkshire
+Filey,"54.209946","-0.293351",FIL,North Yorkshire
+Gargrave,"53.97842","-2.105171",GGV,North Yorkshire
+Giggleswick,"54.061775","-2.302644",GIG,North Yorkshire
+Glaisdale,"54.439796","-0.794221",GLS,North Yorkshire
+Great Ayton,"54.4902","-1.113845",GTA,North Yorkshire
+Grosmont,"54.436394","-0.724937",GMT,North Yorkshire
+Gypsy Lane,"54.532902","-1.179375",GYP,North Yorkshire
+Hammerton,"53.996105","-1.283026",HMM,North Yorkshire
+Harrogate,"53.991959","-1.537814",HGT,North Yorkshire
+Hellifield,"54.010972","-2.227961",HLD,North Yorkshire
+Hensall,"53.698357","-1.113905",HEL,North Yorkshire
+Hornbeam Park,"53.980236","-1.527272",HBP,North Yorkshire
+Horton in Ribblesdale,"54.149379","-2.302054",HIR,North Yorkshire
+Hunmanby,"54.17429","-0.314737",HUB,North Yorkshire
+James Cook University Hospital,"54.5515","-1.2076",JCH,North Yorkshire
+Kildale,"54.477268","-1.067829",KLD,North Yorkshire
+Knaresborough,"54.008755","-1.470482",KNA,North Yorkshire
+Lealholm,"54.459885","-0.826027",LHM,North Yorkshire
+Long Preston,"54.017115","-2.254533",LPR,North Yorkshire
+Longbeck,"54.592896","-1.028041",LGK,North Yorkshire
+Malton,"54.13155","-0.798593",MLT,North Yorkshire
+Marske,"54.587433","-1.018892",MSK,North Yorkshire
+Marton,"54.543808","-1.197708",MTO,North Yorkshire
+Middlesbrough,"54.579086","-1.232596",MBR,North Yorkshire
+Northallerton,"54.333084","-1.441718",NTR,North Yorkshire
+Nunthorpe,"54.528347","-1.170195",NNT,North Yorkshire
+Pannal,"53.958687","-1.533605",PNL,North Yorkshire
+Pickering Eastgate,"54.24349","-0.77435",PIZ,North Yorkshire
+Poppleton,"53.976345","-1.147657",POP,North Yorkshire
+Redcar Central,"54.615692","-1.069318",RCC,North Yorkshire
+Redcar East,"54.609257","-1.05088",RCE,North Yorkshire
+Ribblehead,"54.205776","-2.36087",RHD,North Yorkshire
+Ruswarp,"54.470367","-0.626664",RUS,North Yorkshire
+Saltburn,"54.583462","-0.974116",SLB,North Yorkshire
+Scarborough,"54.2798","-0.405666",SCA,North Yorkshire
+Seamer,"54.241287","-0.416367",SEM,North Yorkshire
+Selby,"53.78336","-1.06355",SBY,North Yorkshire
+Settle,"54.066897","-2.280704",SET,North Yorkshire
+Sherburn-In-Elmet,"53.797142","-1.23176",SIE,North Yorkshire
+Skipton,"53.958691","-2.025878",SKI,North Yorkshire
+Sleights,"54.46088","-0.66246",SLH,North Yorkshire
+South Bank,"54.582375","-1.186112",SBK,North Yorkshire
+South Milford,"53.781994","-1.251772",SOM,North Yorkshire
+Starbeck,"53.999004","-1.501116",SBE,North Yorkshire
+Thirsk,"54.228489","-1.372573",THI,North Yorkshire
+Thornaby,"54.559734","-1.301006",TBY,North Yorkshire
+Ulleskelf,"53.85276","-1.215536",ULL,North Yorkshire
+Weeton,"53.923813","-1.581206",WET,North Yorkshire
+Whitby,"54.484615","-0.615376",WTB,North Yorkshire
+Whitley Bridge,"53.698685","-1.159331",WBD,North Yorkshire
+Yarm,"54.506115","-1.35597",YRM,North Yorkshire
+York,"53.957966","-1.093159",YRK,North Yorkshire
+Allens West,"54.524128","-1.363418",ALW,Durham
+Billingham,"54.606327","-1.278525",BIL,Durham
+Bishop Auckland,"54.657482","-1.677545",BIA,Durham
+Chester-Le-Street,"54.854885","-1.577847",CLS,Durham
+Darlington,"54.520462","-1.54732",DAR,Durham
+Dinsdale,"54.51474","-1.467051",DND,Durham
+Durham,"54.779408","-1.581746",DHM,Durham
+Eaglescliffe,"54.529449","-1.349426",EAG,Durham
+Hartlepool,"54.686771","-1.2073",HPL,Durham
+Heighington,"54.596977","-1.582071",HEI,Durham
+Horden,"54.763879","-1.307347",HRE,Durham
+Newton Aycliffe,"54.613171","-1.5881",NAY,Durham
+North Road,"54.536667","-1.554856",NRD,Durham
+Seaham,"54.836835","-1.341019",SEA,Durham
+Seaton Carew,"54.657959","-1.200106",SEC,Durham
+Shildon,"54.626816","-1.637515",SHD,Durham
+Stockton,"54.56971","-1.31784",STK,Durham
+Teesside Airport,"54.518147","-1.425305",TEA,Durham
+Acton Bridge,"53.265961","-2.602689",ACB,Cheshire
+Adlington (Cheshire),"53.319542","-2.133571",ADC,Cheshire
+Alderley Edge,"53.303762","-2.236812",ALD,Cheshire
+Alsager,"53.093054","-2.29861",ASG,Cheshire
+Ashley,"53.355984","-2.341029",ASY,Cheshire
+Bache,"53.209312","-2.892386",BAC,Cheshire
+Birchwood,"53.41193","-2.52802",BWD,Cheshire
+Capenhurst,"53.260155","-2.942908",CPU,Cheshire
+Chelford,"53.270744","-2.280375",CEL,Cheshire
+Chester,"53.196815","-2.880152",CTR,Cheshire
+Congleton,"53.157637","-2.192754",CNG,Cheshire
+Crewe,"53.089607","-2.432987",CRE,Cheshire
+Cuddington,"53.23991","-2.599329",CUD,Cheshire
+Delamere,"53.228767","-2.666577",DLM,Cheshire
+Disley,"53.358146","-2.042465",DSL,Cheshire
+Ellesmere Port,"53.282097","-2.895403",ELP,Cheshire
+Frodsham,"53.295853","-2.723145",FRD,Cheshire
+Glazebrook,"53.428076","-2.461152",GLZ,Cheshire
+Goostrey,"53.222634","-2.32628",GTR,Cheshire
+Greenbank,"53.251664","-2.533185",GBK,Cheshire
+Handforth,"53.34639","-2.213263",HTH,Cheshire
+Hartford,"53.241721","-2.553978",HTF,Cheshire
+Helsby,"53.275784","-2.770786",HSB,Cheshire
+Holmes Chapel,"53.199131","-2.351063",HCH,Cheshire
+Hooton,"53.296741","-2.976721",HOO,Cheshire
+Hough Green,"53.372378","-2.775056",HGN,Cheshire
+Ince & Elton,"53.276736","-2.816234",INE,Cheshire
+Knutsford,"53.301956","-2.372101",KNF,Cheshire
+Little Sutton,"53.285537","-2.943134",LTT,Cheshire
+Lostock Gralam,"53.267677","-2.465197",LTG,Cheshire
+Macclesfield,"53.259331","-2.121397",MAC,Cheshire
+Middlewood,"53.359142","-2.084111",MDL,Cheshire
+Mobberley,"53.329941","-2.333309",MOB,Cheshire
+Mouldsworth,"53.231976","-2.732546",MLD,Cheshire
+Nantwich,"53.063533","-2.518868",NAN,Cheshire
+Neston,"53.292419","-3.063769",NES,Cheshire
+New Mills Newtown,"53.359169","-2.00898",NMN,Cheshire
+Northwich,"53.261414","-2.496815",NWI,Cheshire
+Overpool,"53.284155","-2.924788",OVE,Cheshire
+Padgate,"53.405514","-2.556521",PDG,Cheshire
+Plumley,"53.274809","-2.419615",PLM,Cheshire
+Poynton,"53.350398","-2.13448",PYT,Cheshire
+Prestbury,"53.293465","-2.14549",PRB,Cheshire
+Runcorn,"53.338696","-2.73919",RUN,Cheshire
+Runcorn East,"53.326929","-2.665102",RUE,Cheshire
+Sandbach,"53.150113","-2.393528",SDB,Cheshire
+Sankey for Penketh,"53.392452","-2.651094",SNK,Cheshire
+Stanlow & Thornton,"53.277996","-2.841318",SNT,Cheshire
+Styal,"53.348137","-2.240313",SYA,Cheshire
+Warrington Bank Quay,"53.385509","-2.602871",WBQ,Cheshire
+Warrington Central,"53.391857","-2.592434",WAC,Cheshire
+Warrington West,"53.393744","-2.636929",WAW,Cheshire
+Widnes,"53.37849","-2.733556",WID,Cheshire
+Wilmslow,"53.326595","-2.225177",WML,Cheshire
+Winsford,"53.190505","-2.494669",WSF,Cheshire
+Wrenbury,"53.019311","-2.596089",WRE,Cheshire
+Accrington,"53.753193","-2.370016",ACR,Lancashire
+Adlington (Lancashire),"53.612926","-2.603084",ADL,Lancashire
+Ansdell & Fairhaven,"53.741558","-2.993077",AFV,Lancashire
+Appley Bridge,"53.579029","-2.718906",APB,Lancashire
+Aughton Park,"53.55447","-2.895095",AUG,Lancashire
+Bamber Bridge,"53.726772","-2.660793",BMB,Lancashire
+Bare Lane,"54.074473","-2.835331",BAR,Lancashire
+Bescar Lane,"53.623531","-2.914703",BES,Lancashire
+Blackburn,"53.746513","-2.479135",BBN,Lancashire
+Blackpool North,"53.822772","-3.049908",BPN,Lancashire
+Blackpool Pleasure Beach,"53.788154","-3.053856",BPB,Lancashire
+Blackpool South,"53.798611","-3.049081",BPS,Lancashire
+Brierfield,"53.824535","-2.236959",BRF,Lancashire
+Buckshaw Parkway,"53.67283","-2.66447",BSV,Lancashire
+Burnley Barracks,"53.791237","-2.258014",BUB,Lancashire
+Burnley Central,"53.793776","-2.244644",BNC,Lancashire
+Burnley Manchester Road,"53.784962","-2.248883",BYM,Lancashire
+Burscough Bridge,"53.60519","-2.841758",BCB,Lancashire
+Burscough Junction,"53.598011","-2.840105",BCJ,Lancashire
+Carnforth,"54.129688","-2.771244",CNF,Lancashire
+Cherry Tree,"53.732868","-2.518401",CYT,Lancashire
+Chorley,"53.652428","-2.626693",CRL,Lancashire
+Church & Oswaldtwistle,"53.750431","-2.391216",CTW,Lancashire
+Clitheroe,"53.87345","-2.394365",CLH,Lancashire
+Colne,"53.85478","-2.181087",CNE,Lancashire
+Croston,"53.66756","-2.777717",CSO,Lancashire
+Darwen,"53.69804","-2.464958",DWN,Lancashire
+Entwistle,"53.655591","-2.413983",ENT,Lancashire
+Euxton Balshaw Lane,"53.670071","-2.675045",EBA,Lancashire
+Hapton,"53.781393","-2.318115",HPN,Lancashire
+Heysham Port,"54.033284","-2.913179",HHB,Lancashire
+Hoscar,"53.597366","-2.803828",HSC,Lancashire
+Huncoat,"53.772144","-2.345903",HCT,Lancashire
+Kirkham & Wesham,"53.787373","-2.881834",KKM,Lancashire
+Lancaster,"54.048553","-2.807934",LAN,Lancashire
+Langho,"53.804934","-2.447934",LHO,Lancashire
+Layton,"53.835625","-3.030249",LAY,Lancashire
+Leyland,"53.69886","-2.687101",LEY,Lancashire
+Lostock Hall,"53.724316","-2.687069",LOH,Lancashire
+Lytham,"53.739101","-2.964206",LTM,Lancashire
+Mill Hill (Lancs),"53.735433","-2.501433",MLH,Lancashire
+Morecambe,"54.070322","-2.869379",MCM,Lancashire
+Moss Side,"53.764431","-2.943548",MOS,Lancashire
+Nelson,"53.834469","-2.214223",NEL,Lancashire
+New Lane,"53.611298","-2.86758",NLN,Lancashire
+Ormskirk,"53.569014","-2.881615",OMS,Lancashire
+Parbold,"53.590856","-2.770679",PBL,Lancashire
+Pleasington,"53.730961","-2.544142",PLS,Lancashire
+Poulton-Le-Fylde,"53.848128","-2.990212",PFY,Lancashire
+Preston,"53.755721","-2.707191",PRE,Lancashire
+Ramsgreave & Wilpshire,"53.787868","-2.47657",RGW,Lancashire
+Rishton,"53.763813","-2.420165",RIS,Lancashire
+Rose Grove,"53.786686","-2.282282",RSG,Lancashire
+Rufford,"53.634817","-2.806792",RUF,Lancashire
+Salwick,"53.781536","-2.817973",SLW,Lancashire
+Silverdale,"54.169922","-2.804164",SVR,Lancashire
+Squires Gate,"53.776756","-3.049403",SQU,Lancashire
+St Annes-On-The-Sea,"53.753383","-3.029662",SAS,Lancashire
+Town Green,"53.542807","-2.9045",TWN,Lancashire
+Upholland,"53.528192","-2.741346",UPL,Lancashire
+Wennington,"54.123531","-2.587517",WNN,Lancashire
+Whalley,"53.824165","-2.412186",WHE,Lancashire
+Arram,"53.884567","-0.426833",ARR,East Riding of Yorkshire
+Bempton,"54.128296","-0.180389",BEM,East Riding of Yorkshire
+Beverley,"53.842281","-0.423855",BEV,East Riding of Yorkshire
+Bridlington,"54.084545","-0.200659",BDT,East Riding of Yorkshire
+Broomfleet,"53.740131","-0.673328",BMF,East Riding of Yorkshire
+Brough,"53.726452","-0.578255",BUH,East Riding of Yorkshire
+Cottingham,"53.781826","-0.406402",CGM,East Riding of Yorkshire
+Driffield,"54.001526","-0.434627",DRF,East Riding of Yorkshire
+Eastrington,"53.75481","-0.786612",EGN,East Riding of Yorkshire
+Ferriby,"53.716625","-0.508878",FRY,East Riding of Yorkshire
+Gilberdyke,"53.747955","-0.732223",GBD,East Riding of Yorkshire
+Goole,"53.704426","-0.872907",GOO,East Riding of Yorkshire
+Hessle,"53.717567","-0.442169",HES,East Riding of Yorkshire
+Howden,"53.764526","-0.86068",HOW,East Riding of Yorkshire
+Hull,"53.744144","-0.345645",HUL,East Riding of Yorkshire
+Hutton Cranswick,"53.955669","-0.43331",HUT,East Riding of Yorkshire
+Nafferton,"54.011684","-0.386948",NFN,East Riding of Yorkshire
+Rawcliffe,"53.688141","-0.961174",RWC,East Riding of Yorkshire
+Saltmarshe,"53.722675","-0.808765",SAM,East Riding of Yorkshire
+Snaith,"53.693192","-1.027678",SNI,East Riding of Yorkshire
+Wressle,"53.773212","-0.924169",WRS,East Riding of Yorkshire
+Ancaster,"52.987888","-0.535596",ANC,Lincolnshire
+Barnetby,"53.574219","-0.409679",BTB,Lincolnshire
+Barrow Haven,"53.697128","-0.391427",BAV,Lincolnshire
+Barton-On-Humber,"53.688824","-0.443233",BAU,Lincolnshire
+Boston,"52.978802","-0.030949",BSN,Lincolnshire
+Brigg,"53.549137","-0.486094",BGG,Lincolnshire
+Crowle,"53.589725","-0.817042",CWE,Lincolnshire
+Gainsborough Central,"53.399574","-0.769674",GNB,Lincolnshire
+Gainsborough Lea Road,"53.386078","-0.768558",GBL,Lincolnshire
+Goxhill,"53.676613","-0.337699",GOX,Lincolnshire
+Grantham,"52.906448","-0.642438",GRA,Lincolnshire
+Great Coates,"53.575542","-0.128701",GCT,Lincolnshire
+Grimsby Docks,"53.574699","-0.075873",GMD,Lincolnshire
+Grimsby Town,"53.564091","-0.086922",GMB,Lincolnshire
+Habrough,"53.605507","-0.267936",HAB,Lincolnshire
+Havenhouse,"53.114548","0.272619",HVN,Lincolnshire
+Healing,"53.581425","-0.160163",HLI,Lincolnshire
+Heckington,"52.977463","-0.29316",HEC,Lincolnshire
+Hubberts Bridge,"52.975594","-0.110044",HBB,Lincolnshire
+Hykeham,"53.194546","-0.600412",HKM,Lincolnshire
+Kirton Lindsey,"53.484829","-0.593886",KTL,Lincolnshire
+Lincoln Central,"53.227089","-0.540922",LCN,Lincolnshire
+Market Rasen,"53.384441","-0.337075",MKR,Lincolnshire
+Metheringham,"53.138866","-0.391421",MGM,Lincolnshire
+New Clee,"53.574455","-0.060771",NCE,Lincolnshire
+New Holland,"53.702106","-0.360936",NHL,Lincolnshire
+Rauceby,"52.985081","-0.455247",RAU,Lincolnshire
+Ruskington,"53.041615","-0.380127",RKT,Lincolnshire
+Saxilby,"53.267193","-0.664018",SXY,Lincolnshire
+Scunthorpe,"53.58617","-0.650951",SCU,Lincolnshire
+Skegness,"53.143032","0.333926",SKG,Lincolnshire
+Sleaford,"52.995274","-0.410174",SLR,Lincolnshire
+Spalding,"52.788418","-0.156722",SPA,Lincolnshire
+Stallingborough,"53.587158","-0.182581",SLL,Lincolnshire
+Stamford,"52.647358","-0.480474",SMD,Lincolnshire
+Swinderby,"53.168732","-0.702985",SWD,Lincolnshire
+Swineshead,"52.969593","-0.186255",SWE,Lincolnshire
+Thornton Abbey,"53.653942","-0.323458",TNA,Lincolnshire
+Thorpe Culvert,"53.123108","0.19982",TPC,Lincolnshire
+Ulceby,"53.619457","-0.30063",ULC,Lincolnshire
+Wainfleet,"53.105373","0.234774",WFL,Lincolnshire
+Alfreton,"53.100414","-1.369689",ALF,Derbyshire
+Ambergate,"53.060501","-1.4807",AMB,Derbyshire
+Bamford,"53.338985","-1.689078",BAM,Derbyshire
+Belper,"53.024555","-1.482622",BLP,Derbyshire
+Buxton,"53.26058","-1.913086",BUX,Derbyshire
+Chapel-En-Le-Frith,"53.312405","-1.918915",CEF,Derbyshire
+Chesterfield,"53.238209","-1.42011",CHD,Derbyshire
+Chinley,"53.340275","-1.9444",CLY,Derbyshire
+Creswell,"53.264008","-1.215865",CWD,Derbyshire
+Cromford,"53.112915","-1.548788",CMF,Derbyshire
+Derby,"52.916381","-1.462555",DBY,Derbyshire
+Dinting,"53.449382","-1.970276",DTG,Derbyshire
+Dove Holes,"53.300005","-1.890678",DVH,Derbyshire
+Dronfield,"53.301357","-1.468768",DRO,Derbyshire
+Duffield,"52.987713","-1.486035",DFI,Derbyshire
+Edale,"53.36477","-1.817395",EDL,Derbyshire
+Furness Vale,"53.348385","-1.989445",FNV,Derbyshire
+Glossop,"53.444503","-1.949403",GLO,Derbyshire
+Grindleford,"53.30555","-1.62629",GRN,Derbyshire
+Hadfield,"53.460873","-1.965429",HDF,Derbyshire
+Hathersage,"53.325405","-1.651641",HSG,Derbyshire
+Hope (Derbyshire),"53.346283","-1.729587",HOP,Derbyshire
+Ilkeston,"52.9794","-1.2949",ILN,Derbyshire
+Langley Mill,"53.018236","-1.330982",LGM,Derbyshire
+Langwith - Whaley Thorns,"53.232885","-1.208882",LAG,Derbyshire
+Long Eaton,"52.885105","-1.288114",LGE,Derbyshire
+Matlock Bath,"53.121941","-1.55766",MTB,Derbyshire
+Matlock,"53.138126","-1.558988",MAT,Derbyshire
+New Mills Central,"53.364567","-2.007485",NMC,Derbyshire
+Peartree,"52.89684","-1.473198",PEA,Derbyshire
+Shirebrook,"53.20369","-1.201995",SHB,Derbyshire
+Spondon,"52.912267","-1.410627",SPO,Derbyshire
+Tutbury & Hatton,"52.864342","-1.682085",TUT,Derbyshire
+Whaley Bridge,"53.330402","-1.983448",WBR,Derbyshire
+Whatstandwell,"53.083076","-1.504312",WTS,Derbyshire
+Whitwell,"53.280987","-1.20055",WWL,Derbyshire
+Willington,"52.854069","-1.563356",WIL,Derbyshire
+Oakham,"52.671913","-0.734019",OKM,Rutland
+Aslockton,"52.951351","-0.898541",ALK,Nottinghamshire
+Attenborough,"52.906322","-1.231262",ATB,Nottinghamshire
+Beeston,"52.920551","-1.207211",BEE,Nottinghamshire
+Bingham,"52.954536","-0.952044",BIN,Nottinghamshire
+Bleasby,"53.041649","-0.942469",BSB,Nottinghamshire
+Bulwell,"52.999625","-1.196115",BLW,Nottinghamshire
+Burton Joyce,"52.984047","-1.040698",BUJ,Nottinghamshire
+Carlton,"52.964573","-1.078357",CTO,Nottinghamshire
+Collingham,"53.144047","-0.748588",CLM,Nottinghamshire
+East Midlands Parkway,"52.862","-1.263",EMD,Nottinghamshire
+Elton & Orston,"52.951843","-0.855362",ELO,Nottinghamshire
+Fiskerton,"53.060253","-0.912181",FSK,Nottinghamshire
+Hucknall,"53.038265","-1.195793",HKN,Nottinghamshire
+Kirkby in Ashfield,"53.099758","-1.253278",KKB,Nottinghamshire
+Lowdham,"53.007072","-0.998465",LOW,Nottinghamshire
+Mansfield,"53.142232","-1.198192",MFT,Nottinghamshire
+Mansfield Woodhouse,"53.1636","-1.201651",MSW,Nottinghamshire
+Netherfield,"52.960972","-1.078427",NET,Nottinghamshire
+Newark Castle,"53.079987","-0.813151",NCT,Nottinghamshire
+Newark Northgate,"53.082542","-0.799644",NNG,Nottinghamshire
+Newstead,"53.069961","-1.222036",NSD,Nottinghamshire
+Nottingham,"52.946905","-1.146441",NOT,Nottinghamshire
+Radcliffe (Nottinghamshire),"52.948906","-1.031059",RDF,Nottinghamshire
+Retford,"53.315872","-0.94772",RET,Nottinghamshire
+Rolleston,"53.065536","-0.900095",ROL,Nottinghamshire
+Shireoaks,"53.32481","-1.16821",SRO,Nottinghamshire
+Sutton Parkway,"53.122108","-1.236385",SPK,Nottinghamshire
+Thurgarton,"53.02924","-0.962157",THU,Nottinghamshire
+Worksop,"53.311005","-1.123444",WRK,Nottinghamshire
+Bath Spa,"51.378059","-2.356302",BTH,Somerset
+Bridgwater,"51.128025","-2.99031",BWT,Somerset
+Bruton,"51.111584","-2.447103",BRU,Somerset
+Castle Cary,"51.099583","-2.522683",CLC,Somerset
+Crewkerne,"50.873337","-2.778815",CKN,Somerset
+Frome,"51.227131","-2.309302",FRO,Somerset
+Highbridge & Burnham,"51.218098","-2.972192",HIG,Somerset
+Keynsham,"51.417122","-2.49465",KYN,Somerset
+Nailsea & Backwell,"51.419357","-2.750661",NLS,Somerset
+Oldfield Park,"51.37978","-2.380742",OLF,Somerset
+Taunton,"51.023613","-3.102146",TAU,Somerset
+Templecombe,"51.001083","-2.417532",TMC,Somerset
+Weston Milton,"51.348579","-2.942236",WNM,Somerset
+Weston-Super-Mare,"51.34454","-2.972301",WSM,Somerset
+Worle,"51.357995","-2.909703",WOR,Somerset
+Yatton,"51.390965","-2.827815",YAT,Somerset
+Yeovil Junction,"50.924686","-2.613198",YVJ,Somerset
+Yeovil Pen Mill,"50.944466","-2.613461",YVP,Somerset
+Ashley Down,"51.4788","-2.5767",ASD,Bristol
+Avonmouth,"51.500194","-2.699332",AVN,Bristol
+Bedminster,"51.440037","-2.594184",BMT,Bristol
+Bristol Temple Meads,"51.449093","-2.581349",BRI,Bristol
+Clifton Down,"51.46423","-2.611761",CFN,Bristol
+Lawrence Hill,"51.458168","-2.564183",LWH,Bristol
+Montpelier,"51.468205","-2.588525",MTP,Bristol
+Parson Street,"51.432758","-2.60991",PSN,Bristol
+Portway Park & Ride,"51.488611","-2.688056",PRI,Bristol
+Redland,"51.468792","-2.598875",RDA,Bristol
+Sea Mills,"51.480209","-2.649427",SML,Bristol
+Shirehampton,"51.484216","-2.679162",SHH,Bristol
+St Andrews Road,"51.513214","-2.696009",SAR,Bristol
+Stapleton Road,"51.468052","-2.565747",SRD,Bristol
+Ashchurch for Tewkesbury,"51.997158","-2.10921",ASC,Gloucestershire
+Bristol Parkway,"51.514061","-2.53461",BPW,Gloucestershire
+Cam & Dursley,"51.71701","-2.366194",CDU,Gloucestershire
+Cheltenham Spa,"51.896465","-2.100245",CNM,Gloucestershire
+Filton Abbey Wood,"51.509438","-2.561933",FIT,Gloucestershire
+Gloucester,"51.864799","-2.238141",GCR,Gloucestershire
+Kemble,"51.67622","-2.023115",KEM,Gloucestershire
+Lydney,"51.714584","-2.531189",LYD,Gloucestershire
+Moreton-In-Marsh,"51.992336","-1.7014",MIM,Gloucestershire
+Patchway,"51.52578","-2.562647",PWY,Gloucestershire
+Pilning,"51.556502","-2.627192",PIL,Gloucestershire
+Severn Beach,"51.559864","-2.664227",SVB,Gloucestershire
+Stonehouse,"51.746029","-2.279516",SHU,Gloucestershire
+Stroud,"51.744358","-2.218673",STD,Gloucestershire
+Yate,"51.540554","-2.432541",YAE,Gloucestershire
+Axminster,"50.778976","-3.005613",AXM,Devon
+Barnstaple,"51.073532","-4.064032",BNP,Devon
+Bere Alston,"50.485535","-4.200418",BAS,Devon
+Bere Ferrers,"50.450798","-4.181901",BFE,Devon
+Chapleton,"51.01577","-4.024398",CPN,Devon
+Copplestone,"50.814228","-3.751624",COP,Devon
+Cranbrook (Devon),"50.7501","-3.4206",CBK,Devon
+Crediton,"50.783375","-3.646912",CDI,Devon
+Dawlish,"50.580692","-3.464583",DWL,Devon
+Dawlish Warren,"50.599311","-3.443903",DWW,Devon
+Devonport,"50.378132","-4.171534",DPT,Devon
+Digby & Sowton,"50.716434","-3.474574",DIG,Devon
+Dockyard,"50.382553","-4.175957",DOC,Devon
+Eggesford,"50.887848","-3.875235",EGG,Devon
+Exeter Central,"50.726471","-3.532973",EXC,Devon
+Exeter St Davids,"50.729019","-3.544387",EXD,Devon
+Exeter St Thomas,"50.716529","-3.538759",EXT,Devon
+Exmouth,"50.620937","-3.415035",EXM,Devon
+Exton,"50.668255","-3.443337",EXN,Devon
+Feniton,"50.787022","-3.285259",FNT,Devon
+Honiton,"50.797062","-3.186207",HON,Devon
+Ivybridge,"50.393515","-3.904954",IVY,Devon
+Keyham,"50.389687","-4.179095",KEY,Devon
+Kings Nympton,"50.935921","-3.905634",KGN,Devon
+Lapford,"50.857384","-3.811489",LAP,Devon
+Lympstone Commando,"50.661121","-3.438876",LYC,Devon
+Lympstone Village,"50.648621","-3.431419",LYM,Devon
+Marsh Barton,"50.704","-3.521",MBT,Devon
+Morchard Road,"50.831841","-3.776424",MRD,Devon
+Newcourt,"50.705418","-3.47259",NCO,Devon
+Newton Abbot,"50.529507","-3.599957",NTA,Devon
+Newton St Cyres,"50.77879","-3.588594",NTC,Devon
+Okehampton,"50.731679","-3.988267",OKE,Devon
+Paignton,"50.434658","-3.564361",PGN,Devon
+Pinhoe,"50.738079","-3.469582",PIN,Devon
+Plymouth,"50.377762","-4.143386",PLY,Devon
+Polsloe Bridge,"50.731274","-3.501785",POL,Devon
+Portsmouth Arms,"50.956768","-3.950633",PMA,Devon
+St Budeaux Ferry Road,"50.401241","-4.186661",SBF,Devon
+St Budeaux Victoria Road,"50.403008","-4.188144",SBV,Devon
+St James' Park,"50.731094","-3.523202",SJP,Devon
+Teignmouth,"50.547993","-3.494712",TGM,Devon
+Tiverton Parkway,"50.917477","-3.359979",TVP,Devon
+Topsham,"50.685989","-3.4637",TOP,Devon
+Torquay,"50.461014","-3.544095",TQY,Devon
+Torre,"50.472664","-3.547292",TRR,Devon
+Totnes,"50.435623","-3.688317",TOT,Devon
+Umberleigh,"50.996704","-3.982228",UMB,Devon
+Whimple,"50.768253","-3.354243",WHM,Devon
+Yeoford,"50.77684","-3.726109",YEO,Devon
+Bournemouth,"50.727478","-1.863955",BMH,Dorset
+Branksome,"50.727528","-1.919211",BSM,Dorset
+Chetnole,"50.866428","-2.574072",CNO,Dorset
+Christchurch,"50.738148","-1.784566",CHR,Dorset
+Corfe Castle,"50.6383","-2.0551",CFC,Dorset
+Dorchester South,"50.708752","-2.437593",DCH,Dorset
+Dorchester West,"50.710526","-2.443274",DCW,Dorset
+Gillingham (Dorset),"51.033886","-2.272361",GIL,Dorset
+Hamworthy,"50.725754","-2.018381",HAM,Dorset
+Holton Heath,"50.711346","-2.077863",HOL,Dorset
+Maiden Newton,"50.780128","-2.568749",MDN,Dorset
+Moreton (Dorset),"50.701057","-2.312914",MTN,Dorset
+Parkstone (Dorset),"50.723049","-1.94897",PKS,Dorset
+Pokesdown,"50.731022","-1.82568",POK,Dorset
+Poole,"50.718559","-1.982964",POO,Dorset
+Sherborne,"50.94405","-2.513816",SHE,Dorset
+Thornford,"50.911377","-2.57889",THO,Dorset
+Upwey,"50.64838","-2.466731",UPW,Dorset
+Wareham,"50.692425","-2.114646",WRM,Dorset
+Weymouth,"50.61515","-2.455103",WEY,Dorset
+Wool,"50.68148","-2.220775",WOO,Dorset
+Yetminster,"50.896114","-2.573004",YET,Dorset
+Ashwell & Morden,"52.030586","-0.10934",AWM,Cambridgeshire
+Cambridge,"52.194519","0.137584",CBG,Cambridgeshire
+Cambridge North,"52.223333","0.157778",CMB,Cambridgeshire
+Dullingham,"52.200943","0.366197",DUL,Cambridgeshire
+Ely,"52.390846","0.266105",ELY,Cambridgeshire
+Foxton,"52.119526","0.056572",FXN,Cambridgeshire
+Huntingdon,"52.328613","-0.192047",HUN,Cambridgeshire
+Kennett,"52.277523","0.490482",KNE,Cambridgeshire
+Littleport,"52.462696","0.316905",LTP,Cambridgeshire
+Manea,"52.497692","0.178779",MNE,Cambridgeshire
+March,"52.560432","0.090409",MCH,Cambridgeshire
+Meldreth,"52.090687","0.00853",MEL,Cambridgeshire
+Peterborough,"52.574947","-0.24981",PBO,Cambridgeshire
+Shelford,"52.149517","0.139805",SED,Cambridgeshire
+Shepreth,"52.114567","0.031517",STH,Cambridgeshire
+Shippea Hill,"52.430218","0.412299",SPP,Cambridgeshire
+Soham,"52.33415","0.3277",SOJ,Cambridgeshire
+St Neots,"52.231438","-0.247244",SNO,Cambridgeshire
+Waterbeach,"52.26268","0.196555",WBC,Cambridgeshire
+Whittlesea,"52.549522","-0.116602",WLE,Cambridgeshire
+Whittlesford Parkway,"52.104092","0.165388",WLF,Cambridgeshire
+Arlesey,"52.025938","-0.266178",ARL,Bedfordshire
+Aspley Guise,"52.020725","-0.631519",APG,Bedfordshire
+Bedford St Johns,"52.129299","-0.467348",BSJ,Bedfordshire
+Bedford,"52.136175","-0.47945",BDM,Bedfordshire
+Biggleswade,"52.085068","-0.260294",BIW,Bedfordshire
+Flitwick,"52.003457","-0.4952",FLT,Bedfordshire
+Harlington,"51.962012","-0.495715",HLN,Bedfordshire
+Kempston Hardwick,"52.092026","-0.505266",KMH,Bedfordshire
+Leagrave,"51.905304","-0.459139",LEA,Bedfordshire
+Leighton Buzzard,"51.916046","-0.676874",LBZ,Bedfordshire
+Lidlington,"52.041385","-0.558972",LID,Bedfordshire
+Luton,"51.882233","-0.414881",LUT,Bedfordshire
+Luton Airport Parkway,"51.871159","-0.393485",LTN,Bedfordshire
+Millbrook (Bedfordshire),"52.053822","-0.532724",MLB,Bedfordshire
+Ridgmont,"52.026588","-0.594903",RID,Bedfordshire
+Sandy,"52.124931","-0.28065",SDY,Bedfordshire
+Stewartby,"52.06974","-0.520596",SWR,Bedfordshire
+Alresford,"51.853828","0.997114",ALR,Essex
+Althorne,"51.647526","0.753603",ALN,Essex
+Audley End,"52.004398","0.20719",AUD,Essex
+Basildon,"51.568672","0.457309",BSO,Essex
+Battlesbridge,"51.624805","0.565826",BLB,Essex
+Benfleet,"51.543964","0.561273",BEF,Essex
+Billericay,"51.628834","0.418656",BIC,Essex
+Braintree,"51.874989","0.558261",BTR,Essex
+Braintree Freeport,"51.869316","0.568258",BTP,Essex
+Brentwood,"51.61322","0.30083",BRE,Essex
+Bures,"51.97094","0.769021",BUE,Essex
+Burnham-On-Crouch,"51.633526","0.813459",BUU,Essex
+Chafford Hundred,"51.502792","0.290938",CFH,Essex
+Chalkwell,"51.53883","0.6706",CHW,Essex
+Chappel & Wakes Colne,"51.925312","0.758944",CWC,Essex
+Chelmsford,"51.736595","0.469316",CHM,Essex
+Clacton-On-Sea,"51.793953","1.154134",CLT,Essex
+Colchester,"51.900478","0.894085",COL,Essex
+Colchester Town,"51.886505","0.904055",CET,Essex
+Cressing,"51.852028","0.580186",CES,Essex
+Dovercourt,"51.938892","1.280724",DVC,Essex
+East Tilbury,"51.485065","0.412479",ETL,Essex
+Elsenham,"51.92038","0.22779",ESM,Essex
+Frinton-On-Sea,"51.838314","1.242907",FRI,Essex
+Grays,"51.476089","0.322719",GRY,Essex
+Great Bentley,"51.85207","1.065258",GRB,Essex
+Great Chesterford,"52.060402","0.1939",GRC,Essex
+Harlow Mill,"51.790878","0.131497",HWM,Essex
+Harlow Town,"51.781639","0.094804",HWN,Essex
+Harwich Town,"51.944157","1.285469",HWC,Essex
+Hatfield Peverel,"51.779785","0.593463",HAP,Essex
+Hockley,"51.603825","0.659971",HOC,Essex
+Hythe,"51.885281","0.926539",HYH,Essex
+Ingatestone,"51.667301","0.384556",INT,Essex
+Kelvedon,"51.841202","0.701529",KEL,Essex
+Kirby Cross,"51.840897","1.214045",KBX,Essex
+Laindon,"51.567566","0.424063",LAI,Essex
+Leigh-on-Sea,"51.541309","0.640454",LES,Essex
+Manningtree,"51.948818","1.045653",MNG,Essex
+Marks Tey,"51.880695","0.782372",MKT,Essex
+Mistley,"51.943417","1.080205",MIS,Essex
+Newport (Essex),"51.97995","0.216176",NWE,Essex
+North Fambridge,"51.64859","0.681703",NFA,Essex
+Ockendon,"51.521687","0.290439",OCK,Essex
+Pitsea,"51.560387","0.508806",PSE,Essex
+Prittlewell,"51.550476","0.71167",PRL,Essex
+Purfleet,"51.481358","0.236575",PFL,Essex
+Rayleigh,"51.589851","0.601393",RLG,Essex
+Rochford,"51.581276","0.701959",RFD,Essex
+Shenfield,"51.630615","0.330602",SNF,Essex
+Shoeburyness,"51.531414","0.795616",SRY,Essex
+South Woodham Ferrers,"51.64957","0.606512",SOF,Essex
+Southend Airport,"51.5687","0.704084",SIA,Essex
+Southend Central,"51.536972","0.712305",SOC,Essex
+Southend East,"51.539234","0.731196",SOE,Essex
+Southend Victoria,"51.542389","0.711184",SOV,Essex
+Southminster,"51.660873","0.835397",SMN,Essex
+Stanford-Le-Hope,"51.513634","0.422634",SFO,Essex
+Stansted Airport,"51.888979","0.26162",SSD,Essex
+Stansted Mountfitchet,"51.901495","0.199642",SST,Essex
+Thorpe Bay,"51.537586","0.762828",TPB,Essex
+Thorpe-Le-Soken,"51.847698","1.162258",TLS,Essex
+Tilbury Town,"51.462879","0.353724",TIL,Essex
+Walton-On-The-Naze,"51.846603","1.268192",WON,Essex
+Weeley,"51.852566","1.114661",WEE,Essex
+West Horndon,"51.56744","0.341807",WHR,Essex
+Westcliff,"51.537437","0.692146",WCF,Essex
+White Notley,"51.839069","0.596874",WNY,Essex
+Wickford,"51.615025","0.519052",WIC,Essex
+Witham,"51.805702","0.641373",WTM,Essex
+Wivenhoe,"51.855789","0.955116",WIV,Essex
+Wrabness,"51.939228","1.17014",WRB,Essex
+Adisham,"51.241352","1.199277",ADM,Kent
+Appledore (Kent),"51.032623","0.816826",APD,Kent
+Ashford International,"51.14335294","0.875167251",AFK,Kent
+Ashurst Kent,"51.128601","0.152298",AHS,Kent
+Aylesford,"51.301384","0.465964",AYL,Kent
+Aylesham,"51.227185","1.209682",AYH,Kent
+Barming,"51.284904","0.479428",BMG,Kent
+Bat & Ball,"51.289703","0.194258",BBL,Kent
+Bearsted,"51.275589","0.57786",BSD,Kent
+Bekesbourne,"51.261051","1.136125",BKS,Kent
+Beltring,"51.204651","0.403518",BEG,Kent
+Birchington-On-Sea,"51.377956","1.300781",BCH,Kent
+Borough Green & Wrotham,"51.29295","0.306296",BRG,Kent
+Broadstairs,"51.360653","1.43317",BSR,Kent
+Canterbury East,"51.275261","1.075434",CBE,Kent
+Canterbury West,"51.284279","1.074608",CBW,Kent
+Charing,"51.208649","0.790337",CHG,Kent
+Chartham,"51.256958","1.018303",CRT,Kent
+Chatham,"51.381161","0.520559",CTM,Kent
+Chestfield & Swalecliffe,"51.360004","1.068182",CSW,Kent
+Chilham,"51.244549","0.975937",CIL,Kent
+Cowden,"51.155441","0.110653",CWN,Kent
+Cuxton,"51.374298","0.462693",CUX,Kent
+Dartford,"51.447548","0.217643",DFD,Kent
+Deal,"51.223129","1.398559",DEA,Kent
+Dover Priory,"51.125988","1.304227",DVP,Kent
+Dumpton Park,"51.345566","1.426291",DMP,Kent
+Dunton Green,"51.296425","0.171616",DNG,Kent
+East Farleigh,"51.255112","0.48498",EFL,Kent
+East Malling,"51.285748","0.439308",EML,Kent
+Ebbsfleet International,"51.443009","0.320887",EBD,Kent
+Edenbridge,"51.208508","0.060099",EBR,Kent
+Edenbridge Town,"51.200287","0.06689",EBT,Kent
+Eynsford,"51.362377","0.203465",EYN,Kent
+Farningham Road,"51.401337","0.235533",FNR,Kent
+Faversham,"51.311436","0.891278",FAV,Kent
+Folkestone Central,"51.082985","1.168331",FKC,Kent
+Folkestone West,"51.085163","1.154209",FKW,Kent
+Gillingham (Kent),"51.386829","0.549618",GLM,Kent
+Gravesend,"51.441029","0.36699",GRV,Kent
+Greenhithe for Bluewater,"51.450855","0.279694",GNH,Kent
+Halling,"51.352169","0.445711",HAI,Kent
+Ham Street,"51.067684","0.854653",HMT,Kent
+Harrietsham,"51.244652","0.673574",HRM,Kent
+Headcorn,"51.165657","0.627507",HCN,Kent
+Herne Bay,"51.364059","1.118742",HNB,Kent
+Hever,"51.180912","0.094648",HEV,Kent
+High Brooms,"51.149609","0.277686",HIB,Kent
+Higham,"51.426376","0.466931",HGM,Kent
+Hildenborough,"51.214451","0.226465",HLB,Kent
+Hollingbourne,"51.265484","0.627465",HBN,Kent
+Kearsney,"51.149399","1.271566",KSN,Kent
+Kemsing,"51.297684","0.247716",KMS,Kent
+Kemsley,"51.361996","0.733559",KML,Kent
+Leigh (Kent),"51.194057","0.211179",LIH,Kent
+Lenham,"51.233986","0.707337",LEN,Kent
+Longfield,"51.396496","0.299994",LGF,Kent
+Maidstone Barracks,"51.277288","0.514148",MDB,Kent
+Maidstone East,"51.277729","0.520618",MDE,Kent
+Maidstone West,"51.270943","0.515975",MDW,Kent
+Marden,"51.175785","0.49359",MRN,Kent
+Margate,"51.384926","1.371737",MAR,Kent
+Martin Mill,"51.170593","1.348907",MTM,Kent
+Meopham,"51.386368","0.356977",MEP,Kent
+Minster,"51.329807","1.317431",MSR,Kent
+New Hythe,"51.312401","0.455075",NHE,Kent
+Newington,"51.353733","0.66269",NGT,Kent
+Northfleet - Cooper Arms,"51.446384","0.324092",NFL,Kent
+Otford,"51.312141","0.196757",OTF,Kent
+Paddock Wood,"51.182453","0.389485",PDW,Kent
+Penshurst,"51.197449","0.174125",PHR,Kent
+Pluckley,"51.156578","0.748571",PLC,Kent
+Queenborough,"51.416473","0.749756",QBR,Kent
+Rainham (Kent),"51.36657","0.611698",RAI,Kent
+Ramsgate,"51.340767","1.405833",RAM,Kent
+Rochester,"51.384968","0.510698",RTR,Kent
+Sandling,"51.09021","1.065995",SDG,Kent
+Sandwich,"51.269711","1.343208",SDW,Kent
+Selling,"51.277817","0.940801",SEG,Kent
+Sevenoaks,"51.27734","0.182193",SEV,Kent
+Sheerness-On-Sea,"51.440559","0.758397",SSS,Kent
+Shepherds Well,"51.188339","1.229952",SPH,Kent
+Shoreham (Kent),"51.332092","0.187665",SEH,Kent
+Sittingbourne,"51.342201","0.733817",SIT,Kent
+Snodland,"51.330521","0.448864",SDA,Kent
+Snowdown,"51.214886","1.213187",SWO,Kent
+Sole Street,"51.38327","0.376939",SOR,Kent
+Staplehurst,"51.171856","0.55061",SPU,Kent
+Stone Crossing,"51.452053","0.263924",SCG,Kent
+Strood,"51.396","0.4998",SOO,Kent
+Sturry,"51.301018","1.121644",STU,Kent
+Swale,"51.390434","0.748194",SWL,Kent
+Swanley,"51.392727","0.16755",SAY,Kent
+Swanscombe- George & Dragon,"51.449356","0.309854",SWM,Kent
+Teynham,"51.333248","0.807944",TEY,Kent
+Thanet Parkway,"51.330843","1.361777",THP,Kent
+Tonbridge,"51.191132","0.269715",TON,Kent
+Tunbridge Wells,"51.130119","0.262435",TBW,Kent
+Walmer,"51.203808","1.382819",WAM,Kent
+Wateringbury,"51.249214","0.423039",WTR,Kent
+West Malling,"51.291584","0.418098",WMA,Kent
+Westenhanger,"51.095444","1.037775",WHA,Kent
+Westgate-On-Sea,"51.381386","1.338402",WGA,Kent
+Whitstable,"51.358204","1.033577",WHI,Kent
+Wye,"51.185463","0.929188",WYE,Kent
+Yalding,"51.226067","0.4118",YAL,Kent
+Aldermaston,"51.402047","-1.136972",AMT,Berkshire
+Ascot,"51.406185","-0.675827",ACT,Berkshire
+Bracknell,"51.413319","-0.751833",BCE,Berkshire
+Burnham,"51.523538","-0.647335",BNM,Berkshire
+Cookham,"51.556873","-0.721948",COO,Berkshire
+Crowthorne,"51.366356","-0.819194",CRN,Berkshire
+Datchet,"51.483303","-0.579978",DAT,Berkshire
+Earley,"51.441051","-0.917989",EAR,Berkshire
+Furze Platt,"51.533082","-0.728467",FZP,Berkshire
+Hungerford,"51.415344","-1.511056",HGD,Berkshire
+Kintbury,"51.40247","-1.445059",KIT,Berkshire
+Langley,"51.508011","-0.541747",LNY,Berkshire
+Maidenhead,"51.518601","-0.722464",MAI,Berkshire
+Martins Heron,"51.406689","-0.720386",MAO,Berkshire
+Midgham,"51.395805","-1.177683",MDG,Berkshire
+Mortimer,"51.371941","-1.035979",MOR,Berkshire
+Newbury Racecourse,"51.39814","-1.308549",NRC,Berkshire
+Newbury,"51.397599","-1.322608",NBY,Berkshire
+Pangbourne,"51.485231","-1.090522",PAN,Berkshire
+Reading,"51.458767","-0.972172",RDG,Berkshire
+Reading Green Park,"51.426667","-1.001389",RGP,Berkshire
+Reading West,"51.455077","-0.990143",RDW,Berkshire
+Sandhurst,"51.34642","-0.803911",SND,Berkshire
+Slough,"51.511921","-0.591803",SLO,Berkshire
+Sunningdale,"51.391312","-0.633135",SNG,Berkshire
+Sunnymeads,"51.470451","-0.558781",SNY,Berkshire
+Thatcham,"51.39384","-1.243048",THA,Berkshire
+Theale,"51.433395","-1.074968",THE,Berkshire
+Tilehurst,"51.471333","-1.029754",TLH,Berkshire
+Twyford,"51.475605","-0.86389",TWY,Berkshire
+Wargrave,"51.498217","-0.876589",WGV,Berkshire
+Windsor & Eton Central,"51.48275","-0.608806",WNC,Berkshire
+Windsor & Eton Riverside,"51.486309","-0.605804",WNR,Berkshire
+Winnersh,"51.430779","-0.87795",WNS,Berkshire
+Winnersh Triangle,"51.437233","-0.895052",WTI,Berkshire
+Wokingham,"51.411556","-0.842473",WKM,Berkshire
+Wraysbury,"51.457661","-0.541906",WRY,Berkshire
+Aldrington,"50.836601","-0.182151",AGT,East Sussex
+Battle,"50.91312","0.495169",BAT,East Sussex
+Berwick (Sussex),"50.840569","0.164587",BRK,East Sussex
+Bexhill,"50.840679","0.475678",BEX,East Sussex
+Bishopstone (Sussex),"50.78","0.0824",BIP,East Sussex
+Brighton,"50.829659","-0.141234",BTN,East Sussex
+Buxted,"50.990475","0.131651",BXD,East Sussex
+Collington,"50.839272","0.457142",CLL,East Sussex
+Cooden Beach,"50.83271","0.426969",COB,East Sussex
+Cooksbridge,"50.903938","-0.010272",CBR,East Sussex
+Crowborough,"51.046085","0.188422",COH,East Sussex
+Crowhurst,"50.888702","0.500984",CWU,East Sussex
+Doleham,"50.918686","0.610732",DLH,East Sussex
+Eastbourne,"50.769085","0.281847",EBN,East Sussex
+Eridge,"51.089024","0.200452",ERI,East Sussex
+Etchingham,"51.010479","0.441935",ETC,East Sussex
+Falmer,"50.862064","-0.087364",FMR,East Sussex
+Fishersgate,"50.834469","-0.219161",FSG,East Sussex
+Frant,"51.104321","0.294034",FRT,East Sussex
+Glynde,"50.859398","0.06883",GLY,East Sussex
+Hampden Park,"50.796124","0.278906",HMD,East Sussex
+Hastings,"50.858288","0.57608",HGS,East Sussex
+Hove,"50.835514","-0.170824",HOV,East Sussex
+Lewes,"50.870281","0.012455",LWS,East Sussex
+London Road (Brighton),"50.836773","-0.136696",LRB,East Sussex
+Moulsecoomb,"50.844616","-0.12076",MCB,East Sussex
+Newhaven Harbour,"50.790398","0.054433",NVH,East Sussex
+Newhaven Town,"50.794888","0.054627",NVN,East Sussex
+Normans Bay,"50.825382","0.389669",NSB,East Sussex
+Ore,"50.866959","0.590783",ORE,East Sussex
+Pevensey & Westham,"50.815899","0.325291",PEV,East Sussex
+Pevensey Bay,"50.818249","0.342453",PEB,East Sussex
+Plumpton,"50.929066","-0.060435",PMP,East Sussex
+Polegate,"50.820934","0.251705",PLG,East Sussex
+Portslade,"50.836044","-0.204898",PLD,East Sussex
+Preston Park,"50.846054","-0.154787",PRP,East Sussex
+Robertsbridge,"50.984726","0.469092",RBR,East Sussex
+Rye,"50.951916","0.730782",RYE,East Sussex
+Seaford,"50.772495","0.10045",SEF,East Sussex
+Southease,"50.831284","0.03066",SEE,East Sussex
+St Leonards Warrior Square,"50.855942","0.560326",SLQ,East Sussex
+Stonegate,"51.020184","0.364016",SOG,East Sussex
+Three Oaks,"50.900658","0.612558",TOK,East Sussex
+Uckfield,"50.968651","0.095048",UCK,East Sussex
+Wadhurst,"51.07338","0.312483",WAD,East Sussex
+West St Leonards,"50.85368","0.540303",WLD,East Sussex
+Winchelsea,"50.933716","0.701241",WSE,East Sussex
+Aldershot,"51.246151","-0.760657",AHT,Hampshire
+Alton,"51.151947","-0.967658",AON,Hampshire
+Andover,"51.212048","-1.493167",ADV,Hampshire
+Ashurst New Forest,"50.888865","-1.525097",ANF,Hampshire
+Basingstoke,"51.26804","-1.086896",BSK,Hampshire
+Beaulieu Road,"50.854206","-1.505586",BEU,Hampshire
+Bedhampton,"50.853638","-0.996989",BDH,Hampshire
+Bentley (Hampshire),"51.180695","-0.868287",BTY,Hampshire
+Bitterne,"50.918343","-1.378279",BTE,Hampshire
+Blackwater,"51.33176","-0.777023",BAW,Hampshire
+Botley,"50.916748","-1.258809",BOE,Hampshire
+Bramley (Hants),"51.32988","-1.061265",BMY,Hampshire
+Brockenhurst,"50.816708","-1.574112",BCU,Hampshire
+Bursledon,"50.882858","-1.304835",BUO,Hampshire
+Chandlers Ford,"50.983","-1.3845",CFR,Hampshire
+Cosham,"50.841644","-1.068259",CSA,Hampshire
+Eastleigh,"50.968559","-1.350563",ESL,Hampshire
+Emsworth,"50.851326","-0.938784",EMS,Hampshire
+Fareham,"50.853352","-1.19162",FRM,Hampshire
+Farnborough Main,"51.296471","-0.756436",FNB,Hampshire
+Farnborough North,"51.301723","-0.743385",FNN,Hampshire
+Fleet,"51.290947","-0.831169",FLE,Hampshire
+Fratton,"50.795818","-1.073422",FTN,Hampshire
+Grateley,"51.170269","-1.619497",GRT,Hampshire
+Hamble,"50.871311","-1.329173",HME,Hampshire
+Havant,"50.854416","-0.982763",HAV,Hampshire
+Hedge End,"50.927773","-1.297056",HDE,Hampshire
+Hilsea,"50.828075","-1.058592",HLS,Hampshire
+Hinton Admiral,"50.752384","-1.713616",HNA,Hampshire
+Hook,"51.279587","-0.961933",HOK,Hampshire
+Liphook,"51.071213","-0.801027",LIP,Hampshire
+Liss,"51.044254","-0.893023",LIS,Hampshire
+Lymington Pier,"50.758083","-1.529275",LYP,Hampshire
+Lymington Town,"50.760818","-1.537753",LYT,Hampshire
+Micheldever,"51.182034","-1.260283",MIC,Hampshire
+Millbrook (Hants),"50.911434","-1.433848",MBK,Hampshire
+Mottisfont & Dunbridge,"51.033987","-1.546942",DBG,Hampshire
+Netley,"50.874977","-1.341913",NTL,Hampshire
+New Milton,"50.755836","-1.658313",NWM,Hampshire
+Overton,"51.253971","-1.25913",OVR,Hampshire
+Petersfield,"51.006924","-0.940951",PTR,Hampshire
+Portchester,"50.848389","-1.126361",PTC,Hampshire
+Portsmouth & Southsea,"50.797756","-1.090417",PMS,Hampshire
+Redbridge,"50.919697","-1.470737",RDB,Hampshire
+Romsey,"50.992641","-1.492716",ROM,Hampshire
+Rowlands Castle,"50.892864","-0.957748",RLN,Hampshire
+Shawford,"51.021488","-1.328428",SHW,Hampshire
+Sholing,"50.896687","-1.36436",SHO,Hampshire
+Southampton Airport Parkway,"50.950638","-1.36362",SOA,Hampshire
+Southampton Central,"50.907742","-1.413983",SOU,Hampshire
+St Denys,"50.921997","-1.3882",SDN,Hampshire
+Swanwick,"50.875427","-1.265151",SNW,Hampshire
+Sway,"50.784454","-1.609864",SWY,Hampshire
+Swaythling,"50.941719","-1.376552",SWG,Hampshire
+Totton,"50.917953","-1.482138",TTN,Hampshire
+Warblington,"50.853382","-0.967163",WBL,Hampshire
+Whitchurch (Hampshire),"51.237358","-1.338183",WCH,Hampshire
+Winchester,"51.067303","-1.320628",WIN,Hampshire
+Winchfield,"51.284481","-0.90733",WNF,Hampshire
+Woolston,"50.898556","-1.37713",WLS,Hampshire
+Amersham,"51.67439","-0.60613",AMR,Buckinghamshire
+Aylesbury,"51.813868","-0.815048",AYS,Buckinghamshire
+Aylesbury Vale Parkway,"51.8327","-0.8623",AVP,Buckinghamshire
+Beaconsfield,"51.611141","-0.643644",BCF,Buckinghamshire
+Bletchley,"51.995339","-0.736368",BLY,Buckinghamshire
+Bourne End,"51.576538","-0.711287",BNE,Buckinghamshire
+Bow Brickhill,"52.003475","-0.696154",BWB,Buckinghamshire
+Chalfont & Latimer,"51.66835","-0.560646",CFO,Buckinghamshire
+Cheddington,"51.857908","-0.662168",CED,Buckinghamshire
+Denham,"51.578495","-0.497633",DNM,Buckinghamshire
+Denham Golf Club,"51.580544","-0.517774",DGC,Buckinghamshire
+Fenny Stratford,"52.000103","-0.716636",FEN,Buckinghamshire
+Gerrards Cross,"51.588883","-0.555367",GER,Buckinghamshire
+Great Missenden,"51.703304","-0.709132",GMN,Buckinghamshire
+Haddenham & Thame Parkway,"51.770788","-0.942121",HDM,Buckinghamshire
+High Wycombe,"51.629793","-0.745139",HWY,Buckinghamshire
+Iver,"51.508342","-0.506659",IVR,Buckinghamshire
+Little Kimble,"51.752014","-0.809152",LTK,Buckinghamshire
+Marlow,"51.570995","-0.766452",MLW,Buckinghamshire
+Milton Keynes Central,"52.034357","-0.77341",MKC,Buckinghamshire
+Monks Risborough,"51.735134","-0.829882",MRS,Buckinghamshire
+Princes Risborough,"51.717697","-0.844059",PRR,Buckinghamshire
+Saunderton,"51.675751","-0.825626",SDR,Buckinghamshire
+Seer Green & Jordans,"51.609524","-0.607809",SRG,Buckinghamshire
+Stoke Mandeville,"51.78772","-0.783575",SKM,Buckinghamshire
+Taplow,"51.523528","-0.681474",TAP,Buckinghamshire
+Wendover,"51.76193","-0.747778",WND,Buckinghamshire
+Woburn Sands,"52.01817","-0.654073",WOB,Buckinghamshire
+Wolverton,"52.064861","-0.80377",WOL,Buckinghamshire
+Appleby,"54.58032","-2.486692",APP,Cumbria
+Armathwaite,"54.809611","-2.77209",AWT,Cumbria
+Arnside,"54.202114","-2.827783",ARN,Cumbria
+Askam,"54.189049","-3.204545",ASK,Cumbria
+Aspatria,"54.759338","-3.331752",ASP,Cumbria
+Barrow-In-Furness,"54.118879","-3.22614",BIF,Cumbria
+Bootle (Cumbria),"54.290249","-3.394818",BOC,Cumbria
+Brampton (Cumbria),"54.932655","-2.703814",BMP,Cumbria
+Braystones,"54.43956","-3.543406",BYS,Cumbria
+Burneside,"54.355305","-2.766231",BUD,Cumbria
+Cark,"54.177513","-2.972746",CAK,Cumbria
+Carlisle,"54.890675","-2.933833",CAR,Cumbria
+Corkickle,"54.541657","-3.582155",CKL,Cumbria
+Dalston (Cumbria),"54.846203","-2.988866",DLS,Cumbria
+Dalton,"54.15424","-3.179031",DLT,Cumbria
+Dent,"54.282597","-2.363987",DNT,Cumbria
+Drigg,"54.376968","-3.444066",DRI,Cumbria
+Flimby,"54.689815","-3.520544",FLM,Cumbria
+Foxfield,"54.259041","-3.215796",FOX,Cumbria
+Garsdale,"54.32135","-2.325891",GSD,Cumbria
+Green Road,"54.244748","-3.245602",GNR,Cumbria
+Harrington,"54.613551","-3.565573",HRR,Cumbria
+Kendal,"54.332108","-2.739667",KEN,Cumbria
+Kents Bank,"54.172967","-2.925351",KBK,Cumbria
+Kirkby Stephen,"54.455135","-2.368603",KSW,Cumbria
+Kirkby-In-Furness,"54.232426","-3.187398",KBF,Cumbria
+Langholm,"55.006935","-2.99296",LHL,Cumbria
+Langwathby,"54.694744","-2.662457",LGW,Cumbria
+Lazonby & Kirkoswald,"54.750233","-2.702207",LZB,Cumbria
+Maryport,"54.711597","-3.494738",MRY,Cumbria
+Millom,"54.210831","-3.271108",MLM,Cumbria
+Nethertown,"54.456699","-3.566201",NRT,Cumbria
+Oxenholme Lake District,"54.305169","-2.722249",OXN,Cumbria
+Parton,"54.569795","-3.580867",PRN,Cumbria
+Penrith,"54.661831","-2.758044",PNR,Cumbria
+Ravenglass for Eskdale,"54.355804","-3.409456",RAV,Cumbria
+Roose,"54.115157","-3.19457",ROO,Cumbria
+Seascale,"54.395351","-3.48476",SSC,Cumbria
+Sellafield,"54.416571","-3.510293",SEL,Cumbria
+Silecroft,"54.225966","-3.334281",SIC,Cumbria
+St Bees,"54.492465","-3.591263",SBS,Cumbria
+Staveley,"54.375629","-2.818961",SVL,Cumbria
+Ulverston,"54.191872","-3.097327",ULV,Cumbria
+Wetheral,"54.883308","-2.833897",WRL,Cumbria
+Whitehaven,"54.552864","-3.586843",WTH,Cumbria
+Wigton,"54.829365","-3.164373",WGT,Cumbria
+Windermere,"54.379745","-2.904339",WDM,Cumbria
+Workington,"54.645061","-3.558626",WKG,Cumbria
+Apsley,"51.732712","-0.463568",APS,Hertfordshire
+Baldock,"51.993156","-0.188106",BDK,Hertfordshire
+Bayford,"51.758808","-0.096074",BAY,Hertfordshire
+Berkhamsted,"51.763638","-0.562498",BKM,Hertfordshire
+Bishops Stortford,"51.866692","0.16557",BIS,Hertfordshire
+Bricket Wood,"51.705223","-0.358846",BWO,Hertfordshire
+Brookmans Park,"51.720955","-0.204811",BPK,Hertfordshire
+Broxbourne,"51.745712","-0.011157",BXB,Hertfordshire
+Bushey,"51.644669","-0.384806",BSH,Hertfordshire
+Carpenders Park,"51.627885","-0.385578",CPK,Hertfordshire
+Cheshunt,"51.702747","-0.023171",CHN,Hertfordshire
+Chorleywood,"51.654188","-0.51846",CLW,Hertfordshire
+Cuffley,"51.708675","-0.109761",CUF,Hertfordshire
+Elstree & Borehamwood,"51.652836","-0.279779",ELS,Hertfordshire
+Garston,"51.686685","-0.381689",GSN,Hertfordshire
+Harpenden,"51.814831","-0.351961",HPD,Hertfordshire
+Hatfield,"51.763397","-0.216162",HAT,Hertfordshire
+Hemel Hempstead,"51.742062","-0.490762",HML,Hertfordshire
+Hertford East,"51.799793","-0.072591",HFE,Hertfordshire
+Hertford North,"51.798328","-0.092961",HFN,Hertfordshire
+Hitchin,"51.952915","-0.262498",HIT,Hertfordshire
+How Wood,"51.717697","-0.344594",HWW,Hertfordshire
+Kings Langley,"51.70631","-0.438411",KGL,Hertfordshire
+Knebworth,"51.86636","-0.187406",KBW,Hertfordshire
+Letchworth Garden City,"51.980305","-0.229403",LET,Hertfordshire
+Park Street,"51.725651","-0.340727",PKT,Hertfordshire
+Potters Bar,"51.697392","-0.192715",PBR,Hertfordshire
+Radlett,"51.68486","-0.317626",RDT,Hertfordshire
+Rickmansworth,"51.640447","-0.473013",RIC,Hertfordshire
+Roydon,"51.775494","0.035088",RYN,Hertfordshire
+Royston,"52.053509","-0.026686",RYS,Hertfordshire
+Rye House,"51.76881","0.005796",RYH,Hertfordshire
+Sawbridgeworth,"51.814625","0.160177",SAW,Hertfordshire
+St Albans,"51.748829","-0.326842",SAC,Hertfordshire
+St Albans Abbey,"51.744675","-0.342422",SAA,Hertfordshire
+St Margarets (Herts),"51.787773","0.000837",SMT,Hertfordshire
+Stevenage,"51.899025","-0.206437",SVG,Hertfordshire
+Theobalds Grove,"51.692162","-0.035216",TEO,Hertfordshire
+Tring,"51.800327","-0.622253",TRI,Hertfordshire
+Waltham Cross,"51.684834","-0.026846",WLC,Hertfordshire
+Ware,"51.808056","-0.028729",WAR,Hertfordshire
+Watford High Street,"51.652743","-0.391656",WFH,Hertfordshire
+Watford Junction,"51.663475","-0.396506",WFJ,Hertfordshire
+Watford North,"51.675087","-0.3903",WFN,Hertfordshire
+Watton-At-Stone,"51.857201","-0.119521",WAS,Hertfordshire
+Welham Green,"51.736324","-0.209989",WMG,Hertfordshire
+Welwyn Garden City,"51.800957","-0.203081",WGC,Hertfordshire
+Welwyn North,"51.824165","-0.191992",WLW,Hertfordshire
+Barrow Upon Soar,"52.750244","-1.14956",BWS,Leicestershire
+Bottesford,"52.944962","-0.796012",BTF,Leicestershire
+Hinckley,"52.534969","-1.371916",HNK,Leicestershire
+Leicester,"52.631397","-1.125274",LEI,Leicestershire
+Loughborough,"52.779327","-1.194952",LBO,Leicestershire
+Market Harborough,"52.480366","-0.908868",MHR,Leicestershire
+Melton Mowbray,"52.760643","-0.885564",MMO,Leicestershire
+Narborough,"52.571712","-1.20318",NBR,Leicestershire
+Sileby,"52.731595","-1.109979",SIL,Leicestershire
+South Wigston,"52.582451","-1.132918",SWS,Leicestershire
+Syston,"52.693111","-1.082611",SYS,Leicestershire
+Acle,"52.634647","1.543981",ACL,Norfolk
+Attleborough,"52.514214","1.022719",ATL,Norfolk
+Berney Arms,"52.589745","1.63043",BYA,Norfolk
+Brandon,"52.454479","0.624116",BND,Norfolk
+Brundall Gardens,"52.623035","1.418896",BGA,Norfolk
+Brundall,"52.619747","1.439316",BDA,Norfolk
+Buckenham,"52.59816","1.47013",BUC,Norfolk
+Cantley,"52.578907","1.512899",CNY,Norfolk
+Cromer,"52.930595","1.292778",CMR,Norfolk
+Dereham Market Place,"52.684896","0.945983",DEB,Norfolk
+Diss,"52.373096","1.123274",DIS,Norfolk
+Downham Market,"52.60471","0.365751",DOW,Norfolk
+Eccles Road,"52.470585","0.969656",ECS,Norfolk
+Great Yarmouth,"52.612122","1.720949",GYM,Norfolk
+Gunton,"52.866077","1.348821",GNT,Norfolk
+Haddiscoe,"52.528835","1.622451",HAD,Norfolk
+Harling Road,"52.454128","0.908188",HRD,Norfolk
+Hoveton & Wroxham,"52.715084","1.408312",HXM,Norfolk
+Kings Lynn,"52.754108","0.403475",KLN,Norfolk
+Lingwood,"52.621872","1.489735",LGD,Norfolk
+North Walsham,"52.817383","1.385142",NWA,Norfolk
+Norwich,"52.627121","1.306879",NRW,Norfolk
+Reedham (Norfolk),"52.564045","1.558941",REE,Norfolk
+Roughton Road,"52.917828","1.299239",RNR,Norfolk
+Salhouse,"52.675083","1.391886",SAH,Norfolk
+Sheringham,"52.94096","1.210195",SHM,Norfolk
+Spooner Row,"52.535057","1.086088",SPN,Norfolk
+Thetford,"52.419384","0.744109",TTF,Norfolk
+Watlington,"52.672703","0.382736",WTG,Norfolk
+Wells Next The Sea,"52.95288","0.850696",WEN,Norfolk
+West Runton,"52.935497","1.245516",WRN,Norfolk
+Worstead,"52.777256","1.404282",WRT,Norfolk
+Wymondham,"52.564804","1.11769",WMD,Norfolk
+Corby,"52.489196","-0.687944",COR,Northamptonshire
+Kettering,"52.393177","-0.731724",KET,Northamptonshire
+Kings Sutton,"52.020184","-1.280066",KGS,Northamptonshire
+Long Buckby,"52.293964","-1.086469",LBK,Northamptonshire
+Northampton,"52.237433","-0.906689",NMP,Northamptonshire
+Wellingborough,"52.303867","-0.676496",WEL,Northamptonshire
+Appleford,"51.639562","-1.242375",APF,Oxfordshire
+Ascott-Under-Wychwood,"51.867376","-1.564136",AUW,Oxfordshire
+Banbury,"52.060925","-1.327541",BAN,Oxfordshire
+Bicester North,"51.903401","-1.150517",BCS,Oxfordshire
+Bicester Village,"51.893429","-1.148393",BIT,Oxfordshire
+Charlbury,"51.872929","-1.490133",CBY,Oxfordshire
+Cholsey,"51.570135","-1.157942",CHO,Oxfordshire
+Combe,"51.832277","-1.392817",CME,Oxfordshire
+Culham,"51.653773","-1.236445",CUM,Oxfordshire
+Didcot Parkway,"51.611275","-1.242614",DID,Oxfordshire
+Finstock,"51.85305","-1.47003",FIN,Oxfordshire
+Goring & Streatley,"51.521428","-1.133051",GOR,Oxfordshire
+Hanborough,"51.825172","-1.373471",HND,Oxfordshire
+Henley-On-Thames,"51.534182","-0.900133",HOT,Oxfordshire
+Heyford,"51.91902","-1.299262",HYD,Oxfordshire
+Islip,"51.82571","-1.238185",ISP,Oxfordshire
+Kingham,"51.902222","-1.629331",KGM,Oxfordshire
+Oxford,"51.753549","-1.270037",OXF,Oxfordshire
+Oxford Parkway,"51.8042","-1.2745",OXP,Oxfordshire
+Radley,"51.685588","-1.240398",RAD,Oxfordshire
+Shiplake,"51.51121","-0.882452",SHI,Oxfordshire
+Shipton,"51.866131","-1.591864",SIP,Oxfordshire
+Tackley,"51.88118","-1.297202",TAC,Oxfordshire
+Barlaston,"52.942856","-2.168118",BRT,Staffordshire
+Bilbrook,"52.623695","-2.186101",BBK,Staffordshire
+Blake Street,"52.605054","-1.844888",BKT,Staffordshire
+Blythe Bridge,"52.968124","-2.066966",BYB,Staffordshire
+Burton-On-Trent,"52.805798","-1.64246",BUT,Staffordshire
+Cannock,"52.686768","-2.022158",CAO,Staffordshire
+Codsall,"52.627262","-2.200891",CSL,Staffordshire
+Drayton Manor,"52.61095","-1.71345",DRY,Staffordshire
+Hednesford,"52.709922","-2.00199",HNF,Staffordshire
+Kidsgrove,"53.086555","-2.244828",KDG,Staffordshire
+Landywood,"52.657101","-2.020659",LAW,Staffordshire
+Lichfield City,"52.680347","-1.825431",LIC,Staffordshire
+Lichfield Trent Valley,"52.6869","-1.800014",LTV,Staffordshire
+Longport,"53.041656","-2.21623",LPT,Staffordshire
+Longton,"52.990013","-2.137216",LGN,Staffordshire
+Norton Bridge,"52.865513","-2.190102",NTB,Staffordshire
+Penkridge,"52.723611","-2.119447",PKG,Staffordshire
+Rugeley Town,"52.754672","-1.936963",RGT,Staffordshire
+Rugeley Trent Valley,"52.769451","-1.930309",RGL,Staffordshire
+Shenstone,"52.638985","-1.844528",SEN,Staffordshire
+Stafford,"52.804466","-2.123088",STA,Staffordshire
+Stoke-On-Trent,"53.008012","-2.181119",SOT,Staffordshire
+Stone,"52.90832","-2.154951",SNE,Staffordshire
+Tamworth,"52.63737","-1.687083",TAM,Staffordshire
+Uttoxeter,"52.897041","-1.857258",UTT,Staffordshire
+Wedgwood,"52.951839","-2.171135",WED,Staffordshire
+Wedgwood Lane,"52.95097","-2.17558",WER,Staffordshire
+Wilnecote,"52.610817","-1.679499",WNE,Staffordshire
+Beccles,"52.458481","1.569547",BCC,Suffolk
+Brampton (Suffolk),"52.395397","1.543871",BRP,Suffolk
+Bury St Edmunds,"52.253727","0.713355",BSE,Suffolk
+Darsham,"52.272812","1.522343",DSM,Suffolk
+Derby Road,"52.04953","1.182332",DBR,Suffolk
+Elmswell,"52.238201","0.911625",ESW,Suffolk
+Felixstowe,"51.967449","1.352707",FLX,Suffolk
+Halesworth,"52.346157","1.506141",HAS,Suffolk
+Ipswich,"52.050552","1.144481",IPS,Suffolk
+Lakenheath,"52.447456","0.533911",LAK,Suffolk
+Lowestoft,"52.473618","1.749009",LWT,Suffolk
+Melton,"52.103683","1.338085",MES,Suffolk
+Needham Market,"52.156437","1.051047",NMT,Suffolk
+Newmarket,"52.237904","0.406249",NMK,Suffolk
+Oulton Broad North,"52.478226","1.716998",OUN,Suffolk
+Oulton Broad South,"52.469528","1.707425",OUS,Suffolk
+Saxmundham,"52.215309","1.489965",SAX,Suffolk
+Somerleyton,"52.509892","1.653333",SYT,Suffolk
+Stowmarket,"52.190105","1.000662",SMK,Suffolk
+Sudbury Suffolk,"52.035591","0.735111",SUY,Suffolk
+Thurston,"52.249699","0.808347",TRS,Suffolk
+Trimley,"51.976509","1.318431",TRM,Suffolk
+Westerfield,"52.081417","1.167082",WFI,Suffolk
+Wickham Market,"52.151421","1.398685",WCM,Suffolk
+Woodbridge,"52.089855","1.31807",WDB,Suffolk
+Addlestone,"51.372414","-0.48571",ASN,Surrey
+Ash,"51.249222","-0.711856",ASH,Surrey
+Ash Vale,"51.272709","-0.721247",AHV,Surrey
+Ashford Surrey,"51.436047","-0.469229",AFS,Surrey
+Ashtead,"51.317822","-0.308126",AHD,Surrey
+Bagshot,"51.364964","-0.688501",BAG,Surrey
+Banstead,"51.329922","-0.214384",BAD,Surrey
+Betchworth,"51.247993","-0.26771",BTO,Surrey
+Bookham,"51.288334","-0.385224",BKA,Surrey
+Box Hill & Westhumble,"51.253376","-0.329128",BXW,Surrey
+Brookwood,"51.303215","-0.635753",BKO,Surrey
+Byfleet & New Haw,"51.349869","-0.480714",BFN,Surrey
+Camberley,"51.335911","-0.745328",CAM,Surrey
+Caterham,"51.282803","-0.078539",CAT,Surrey
+Chertsey,"51.387108","-0.509667",CHY,Surrey
+Chilworth,"51.21553","-0.523795",CHL,Surrey
+Chipstead,"51.309444","-0.169259",CHP,Surrey
+Clandon,"51.263832","-0.503622",CLA,Surrey
+Claygate,"51.360664","-0.348207",CLG,Surrey
+Cobham & Stoke Dabernon,"51.318077","-0.389917",CSD,Surrey
+Dorking Deepdene,"51.238918","-0.323921",DPD,Surrey
+Dorking,"51.241615","-0.323822",DKG,Surrey
+Dorking West,"51.236443","-0.339762",DKT,Surrey
+Dormans,"51.15567","-0.005183",DMS,Surrey
+Earlswood (Surrey),"51.227631","-0.171078",ELD,Surrey
+Effingham Junction,"51.291504","-0.419536",EFF,Surrey
+Egham,"51.428925","-0.545701",EGH,Surrey
+Epsom Downs,"51.321365","-0.243411",EPD,Surrey
+Epsom,"51.334339","-0.268756",EPS,Surrey
+Esher,"51.379642","-0.354714",ESH,Surrey
+Ewell East,"51.345612","-0.24106",EWE,Surrey
+Ewell West,"51.349445","-0.256711",EWW,Surrey
+Farncombe,"51.197639","-0.604522",FNC,Surrey
+Farnham,"51.211422","-0.793093",FNH,Surrey
+Frimley,"51.311653","-0.747426",FML,Surrey
+Godalming,"51.186115","-0.619175",GOD,Surrey
+Godstone,"51.217606","-0.051188",GDN,Surrey
+Gomshall,"51.218964","-0.442065",GOM,Surrey
+Guildford,"51.236912","-0.580409",GLD,Surrey
+Hampton Court,"51.401947","-0.342412",HMC,Surrey
+Haslemere,"51.089237","-0.719162",HSL,Surrey
+Hersham,"51.377419","-0.389271",HER,Surrey
+Hinchley Wood,"51.374939","-0.340508",HYW,Surrey
+Holmwood,"51.180428","-0.321752",HLM,Surrey
+Horley,"51.168137","-0.161994",HOR,Surrey
+Horsley,"51.279114","-0.434304",HSY,Surrey
+Hurst Green,"51.244545","0.004397",HUR,Surrey
+Kempton Park,"51.421757","-0.40929",KMP,Surrey
+Kingswood,"51.294807","-0.211439",KND,Surrey
+Leatherhead,"51.298397","-0.333225",LHD,Surrey
+Lingfield,"51.176392","-0.007151",LFD,Surrey
+London Road (Guildford),"51.24067","-0.56506",LRD,Surrey
+Longcross,"51.384556","-0.594536",LNG,Surrey
+Merstham,"51.264164","-0.149555",MHM,Surrey
+Milford (Surrey),"51.163849","-0.63701",MLF,Surrey
+North Camp,"51.275517","-0.731195",NCM,Surrey
+Nutfield,"51.22702","-0.132425",NUF,Surrey
+Ockley,"51.150955","-0.335692",OLY,Surrey
+Oxshott,"51.336578","-0.361993",OXS,Surrey
+Oxted,"51.257298","-0.005075",OXT,Surrey
+Redhill,"51.240124","-0.164851",RDH,Surrey
+Reigate,"51.241623","-0.203474",REI,Surrey
+Salfords,"51.201412","-0.162096",SAF,Surrey
+Shalford,"51.214264","-0.566789",SFR,Surrey
+Shepperton,"51.397091","-0.447521",SHP,Surrey
+Staines,"51.432873","-0.502415",SNS,Surrey
+Stoneleigh,"51.363701","-0.247546",SNL,Surrey
+Sunbury,"51.418262","-0.416611",SUU,Surrey
+Tadworth,"51.29158","-0.235953",TAD,Surrey
+Tattenham Corner,"51.308765","-0.242456",TAT,Surrey
+Thames Ditton,"51.388424","-0.340027",THD,Surrey
+Upper Halliford,"51.413036","-0.429722",UPH,Surrey
+Upper Warlingham,"51.307972","-0.077498",UWL,Surrey
+Virginia Water,"51.401257","-0.562389",VIR,Surrey
+Walton-On-Thames,"51.372364","-0.413873",WAL,Surrey
+Wanborough,"51.245129","-0.66756",WAN,Surrey
+West Byfleet,"51.339394","-0.505468",WBY,Surrey
+Weybridge,"51.361248","-0.457352",WYB,Surrey
+Whyteleafe South,"51.303474","-0.077684",WHS,Surrey
+Whyteleafe,"51.309834","-0.081725",WHY,Surrey
+Witley,"51.133362","-0.645059",WTY,Surrey
+Woking,"51.31847","-0.557814",WOK,Surrey
+Woldingham,"51.289547","-0.051013",WOH,Surrey
+Woodmansterne,"51.31012","-0.154887",WME,Surrey
+Worplesdon,"51.288189","-0.581705",WPL,Surrey
+Atherstone,"52.578949","-1.552808",ATH,Warwickshire
+Bearley,"52.244252","-1.750259",BER,Warwickshire
+Bedworth,"52.479133","-1.46749",BEH,Warwickshire
+Bermuda Park,"52.5029","-1.4726",BEP,Warwickshire
+Claverdon,"52.276424","-1.696566",CLV,Warwickshire
+Coleshill Parkway,"52.5164","-1.7081",CEH,Warwickshire
+Danzey,"52.324329","-1.819493",DZY,Warwickshire
+Earlswood (West Midlands),"52.366638","-1.861907",EWD,Warwickshire
+Hatton,"52.295242","-1.672982",HTN,Warwickshire
+Henley-In-Arden,"52.291","-1.784444",HNL,Warwickshire
+Kenilworth,"52.3429","-1.5726",KNW,Warwickshire
+Lapworth,"52.341232","-1.72549",LPW,Warwickshire
+Leamington Spa,"52.284893","-1.536723",LMS,Warwickshire
+Nuneaton,"52.526436","-1.463431",NUN,Warwickshire
+Polesworth,"52.625893","-1.60995",PSW,Warwickshire
+Rugby,"52.378719","-1.249263",RUG,Warwickshire
+Stratford-upon-Avon Parkway,"52.20642","-1.7307",STY,Warwickshire
+Stratford-upon-Avon,"52.19376","-1.716148",SAV,Warwickshire
+The Lakes,"52.359436","-1.845782",TLK,Warwickshire
+Warwick,"52.286861","-1.582155",WRW,Warwickshire
+Warwick Parkway,"52.286268","-1.613493",WRP,Warwickshire
+Water Orton,"52.518379","-1.743538",WTO,Warwickshire
+Wilmcote,"52.222618","-1.755493",WMC,Warwickshire
+Wood End,"52.344143","-1.844372",WDE,Warwickshire
+Wootton Wawen,"52.265831","-1.784561",WWW,Warwickshire
+Amberley,"50.896507","-0.542446",AMY,West Sussex
+Angmering,"50.816704","-0.489559",ANG,West Sussex
+Arundel,"50.848003","-0.546796",ARU,West Sussex
+Balcombe,"51.05624","-0.137881",BAB,West Sussex
+Barnham,"50.831135","-0.639627",BAA,West Sussex
+Billingshurst,"51.014938","-0.450348",BIG,West Sussex
+Bognor Regis,"50.786594","-0.676384",BOG,West Sussex
+Bosham,"50.843262","-0.846655",BOH,West Sussex
+Burgess Hill,"50.953552","-0.127749",BUG,West Sussex
+Chichester,"50.831821","-0.783032",CCH,West Sussex
+Christs Hospital,"51.050629","-0.363538",CHH,West Sussex
+Crawley,"51.111874","-0.187083",CRW,West Sussex
+Durrington-On-Sea,"50.817463","-0.411463",DUR,West Sussex
+East Grinstead,"51.126213","-0.017887",EGR,West Sussex
+East Worthing,"50.822071","-0.354517",EWR,West Sussex
+Faygate,"51.095943","-0.263403",FGT,West Sussex
+Fishbourne,"50.839352","-0.815495",FSB,West Sussex
+Ford,"50.829506","-0.578611",FOD,West Sussex
+Gatwick Airport,"51.156425","-0.161022",GTW,West Sussex
+Goring-By-Sea,"50.817753","-0.432751",GBS,West Sussex
+Hassocks,"50.923264","-0.146043",HSK,West Sussex
+Haywards Heath,"51.00536","-0.105717",HHE,West Sussex
+Horsham,"51.066174","-0.318753",HRH,West Sussex
+Ifield,"51.115902","-0.215505",IFI,West Sussex
+Lancing,"50.827015","-0.323103",LAC,West Sussex
+Littlehampton,"50.810226","-0.546547",LIT,West Sussex
+Littlehaven,"51.079514","-0.308276",LVN,West Sussex
+Nutbourne,"50.846313","-0.883508",NUT,West Sussex
+Pulborough,"50.957355","-0.517751",PUL,West Sussex
+Shoreham-By-Sea,"50.834358","-0.271709",SSE,West Sussex
+Southbourne,"50.848343","-0.907601",SOB,West Sussex
+Southwick,"50.832928","-0.236254",SWK,West Sussex
+Three Bridges,"51.116863","-0.161162",TBD,West Sussex
+Warnham,"51.0933","-0.329193",WNH,West Sussex
+West Worthing,"50.818111","-0.392983",WWO,West Sussex
+Wivelsfield,"50.964249","-0.121633",WVF,West Sussex
+Worthing,"50.818768","-0.375924",WRH,West Sussex
+Alvechurch,"52.346607","-1.967854",ALV,Worcestershire
+Barnt Green,"52.361328","-1.994098",BTG,Worcestershire
+Blakedown,"52.406147","-2.176365",BKD,Worcestershire
+Bromsgrove,"52.322662","-2.048379",BMV,Worcestershire
+Droitwich Spa,"52.26862","-2.158239",DTW,Worcestershire
+Evesham,"52.098793","-1.947413",EVE,Worcestershire
+Great Malvern,"52.109165","-2.318289",GMV,Worcestershire
+Hagley,"52.422375","-2.147018",HAG,Worcestershire
+Hartlebury,"52.335049","-2.22158",HBY,Worcestershire
+Honeybourne,"52.101383","-1.834989",HYB,Worcestershire
+Kidderminster,"52.384457","-2.239458",KID,Worcestershire
+Malvern Link,"52.12534","-2.31987",MVL,Worcestershire
+Pershore,"52.130249","-2.071555",PSH,Worcestershire
+Redditch,"52.306337","-1.945248",RDC,Worcestershire
+Worcester Foregate Street,"52.194801","-2.220885",WOF,Worcestershire
+Worcestershire Parkway,"52.15622","-2.1597",WOP,Worcestershire
+Worcester Shrub Hill,"52.194817","-2.210642",WOS,Worcestershire
+Wythall,"52.380131","-1.866284",WYT,Worcestershire
+Albrighton,"52.637917","-2.268913",ALB,Shropshire
+Broome,"52.422745","-2.88524",BME,Shropshire
+Bucknell,"52.357525","-2.948551",BUK,Shropshire
+Church Stretton,"52.536606","-2.803485",CTT,Shropshire
+Cosford,"52.645031","-2.301479",COS,Shropshire
+Craven Arms,"52.441975","-2.837077",CRV,Shropshire
+Gobowen,"52.893501","-3.036019",GOB,Shropshire
+Hopton Heath,"52.391964","-2.912536",HPT,Shropshire
+Knighton,"52.345043","-3.042232",KNI,Shropshire
+Ludlow,"52.370853","-2.715275",LUD,Shropshire
+Oakengates,"52.693104","-2.451245",OKN,Shropshire
+Prees,"52.89962","-2.689765",PRS,Shropshire
+Shifnal,"52.666405","-2.371116",SFN,Shropshire
+Shrewsbury,"52.711369","-2.74897",SHR,Shropshire
+Telford Central,"52.678764","-2.440744",TFC,Shropshire
+Wellington (Shropshire),"52.700928","-2.516438",WLN,Shropshire
+Wem,"52.856293","-2.718784",WEM,Shropshire
+Whitchurch (Shropshire),"52.968048","-2.671497",WTC,Shropshire
+Yorton,"52.809009","-2.73645",YRT,Shropshire
+Bodmin Parkway,"50.445822","-4.663026",BOD,Cornwall
+Bugle,"50.399979","-4.791736",BGL,Cornwall
+Calstock,"50.497487","-4.208665",CSK,Cornwall
+Camborne,"50.210392","-5.297921",CBN,Cornwall
+Carbis Bay,"50.19746","-5.463815",CBB,Cornwall
+Causeland,"50.405525","-4.466937",CAU,Cornwall
+Coombe,"50.44479","-4.481655",COE,Cornwall
+Falmouth Docks,"50.15075","-5.0559",FAL,Cornwall
+Falmouth Town,"50.148392","-5.065443",FMT,Cornwall
+Gunnislake,"50.515992","-4.219437",GSL,Cornwall
+Hayle,"50.186176","-5.419558",HYL,Cornwall
+Lelant Saltings,"50.17923","-5.441468",LTS,Cornwall
+Liskeard,"50.446711","-4.46753",LSK,Cornwall
+Looe,"50.359234","-4.456029",LOO,Cornwall
+Lostwithiel,"50.40744","-4.665497",LOS,Cornwall
+Luxulyan,"50.390244","-4.747551",LUX,Cornwall
+Menheniot,"50.426183","-4.40938",MEN,Cornwall
+Newquay,"50.415245","-5.075769",NQY,Cornwall
+Par,"50.355263","-4.704752",PAR,Cornwall
+Penmere,"50.149736","-5.083108",PNM,Cornwall
+Penryn,"50.170206","-5.110885",PYN,Cornwall
+Penzance,"50.12162","-5.532489",PNZ,Cornwall
+Perranwell,"50.216431","-5.111868",PRW,Cornwall
+Quintrell Downs,"50.403908","-5.029838",QUI,Cornwall
+Redruth,"50.233111","-5.225877",RED,Cornwall
+Roche,"50.418911","-4.830658",ROC,Cornwall
+Saltash,"50.407108","-4.209449",STS,Cornwall
+Sandplace,"50.386684","-4.464549",SDP,Cornwall
+St Austell,"50.338863","-4.789557",SAU,Cornwall
+St Columb Road,"50.399002","-4.94085",SCR,Cornwall
+St Erth,"50.171074","-5.443694",SER,Cornwall
+St Germans,"50.394386","-4.308757",SGM,Cornwall
+St Ives,"50.208759","-5.477247",SIV,Cornwall
+St Keyne,"50.422714","-4.462204",SKN,Cornwall
+Truro,"50.263603","-5.063017",TRU,Cornwall
+Avoncliff,"51.339596","-2.281342",AVF,Wiltshire
+Bedwyn,"51.379715","-1.599077",BDW,Wiltshire
+Bradford-On-Avon,"51.345058","-2.252669",BOA,Wiltshire
+Chippenham,"51.462162","-2.115123",CPM,Wiltshire
+Dean,"51.042629","-1.634802",DEN,Wiltshire
+Dilton Marsh,"51.248928","-2.207723",DMH,Wiltshire
+Freshford,"51.342251","-2.30146",FFD,Wiltshire
+Melksham,"51.379803","-2.14449",MKM,Wiltshire
+Pewsey,"51.342411","-1.771691",PEW,Wiltshire
+Salisbury,"51.070915","-1.805864",SAL,Wiltshire
+Swindon,"51.565437","-1.786448",SWI,Wiltshire
+Tisbury,"51.060257","-2.078456",TIS,Wiltshire
+Trowbridge,"51.319954","-2.215222",TRO,Wiltshire
+Warminster,"51.206722","-2.177467",WMN,Wiltshire
+Westbury,"51.26693","-2.199202",WSB,Wiltshire
+Brading,"50.678509","-1.13801",BDN,Isle of Wight
+Lake,"50.64814","-1.16686",LKE,Isle of Wight
+Ryde St Johns Road,"50.72361","-1.157028",RYR,Isle of Wight
+Sandown,"50.657101","-1.162457",SAN,Isle of Wight
+Shanklin,"50.633842","-1.179841",SHN,Isle of Wight
+Smallbrook Junction,"50.712822","-1.15721",SAB,Isle of Wight
+Acklington,"55.307129","-1.651816",ACK,Northumberland
+Alnmouth,"55.392456","-1.636858",ALM,Northumberland
+Ashington,"55.182","-1.573",ASL,Northumberland
+Bardon Mill,"54.974636","-2.349922",BLL,Northumberland
+Berwick-Upon-Tweed,"55.774872","-2.01112",BWK,Northumberland
+Chathill,"55.536404","-1.706846",CHT,Northumberland
+Corbridge,"54.966152","-2.017141",CRB,Northumberland
+Cramlington,"55.088604","-1.598887",CRM,Northumberland
+Haltwhistle,"54.967972","-2.462321",HWH,Northumberland
+Haydon Bridge,"54.974888","-2.246809",HDB,Northumberland
+Hexham,"54.974201","-2.095266",HEX,Northumberland
+Morpeth,"55.162537","-1.682903",MPT,Northumberland
+Pegswood,"55.178616","-1.64509",PEG,Northumberland
+Prudhoe,"54.966072","-1.864077",PRU,Northumberland
+Riding Mill,"54.949066","-1.97186",RDM,Northumberland
+Seaton Delaval,"55.0755","-1.5372",SEJ,Northumberland
+Stocksfield,"54.94635","-1.917227",SKS,Northumberland
+Widdrington,"55.241428","-1.61623",WDD,Northumberland
+Wylam,"54.974991","-1.814058",WYM,Northumberland
+Colwall,"52.080284","-2.357489",CWL,Herefordshire
+Hereford,"52.060715","-2.708854",HFD,Herefordshire
+Ledbury,"52.044991","-2.425728",LED,Herefordshire
+Leominster,"52.225109","-2.730506",LEO,Herefordshire
+Aberdeen,"57.143127","-2.097464",ABD,Grampian
+Dyce,"57.205002","-2.191978",DYC,Grampian
+Elgin,"57.64299","-3.31163",ELG,Grampian
+Forres,"57.609661","-3.62847",FOR,Grampian
+Huntly,"57.444401","-2.776354",HNT,Grampian
+Insch,"57.33749","-2.616279",INS,Grampian
+Inverurie,"57.286343","-2.373224",INR,Grampian
+Keith,"57.550976","-2.954062",KEH,Grampian
+Kintore,"57.243611","-2.350278",KTR,Grampian
+Laurencekirk,"56.835945","-2.466345",LAU,Grampian
+Portlethen,"57.060455","-2.128577",PLN,Grampian
+Stonehaven,"56.966888","-2.225286",STN,Grampian
+Arbroath,"56.559628","-2.588928",ARB,Tayside
+Balmossie,"56.475548","-2.83764",BSI,Tayside
+Barry Links,"56.493206","-2.745444",BYL,Tayside
+Blair Atholl,"56.765614","-3.85025",BLA,Tayside
+Broughty Ferry,"56.467213","-2.873153",BYF,Tayside
+Carnoustie,"56.500618","-2.7066",CAN,Tayside
+Dundee,"56.456669","-2.970576",DEE,Tayside
+Dunkeld & Birnam,"56.557301","-3.578097",DKD,Tayside
+Gleneagles,"56.274902","-3.7312",GLE,Tayside
+Golf Street,"56.497852","-2.719541",GOF,Tayside
+Invergowrie,"56.456795","-3.057897",ING,Tayside
+Monifieth,"56.480167","-2.818249",MON,Tayside
+Montrose,"56.71286","-2.47207",MTS,Tayside
+Perth,"56.39275","-3.440068",PTH,Tayside
+Pitlochry,"56.70256","-3.736085",PIT,Tayside
+Rannoch,"56.685318","-4.576208",RAN,Tayside
+Airbles,"55.782504","-3.994447",AIR,Strathclyde
+Airdrie,"55.864029","-3.982952",ADR,Strathclyde
+Alexandra Parade,"55.863724","-4.211465",AXP,Strathclyde
+Alexandria,"55.98513","-4.577534",ALX,Strathclyde
+Anderston,"55.859924","-4.271969",AND,Strathclyde
+Anniesland,"55.889553","-4.321684",ANL,Strathclyde
+Ardlui,"56.302025","-4.721712",AUI,Strathclyde
+Ardrossan South Beach,"55.640495","-4.799593",ASB,Strathclyde
+Ardrossan Town,"55.639313","-4.812212",ADN,Strathclyde
+Argyle Street,"55.855938","-4.244574",AGS,Strathclyde
+Arrochar & Tarbet,"56.204021","-4.722822",ART,Strathclyde
+Ashfield,"55.889214","-4.2433",ASF,Strathclyde
+Auchinleck,"55.47031","-4.295389",AUK,Strathclyde
+Ayr,"55.458248","-4.626878",AYR,Strathclyde
+Baillieston,"55.844761","-4.11454",BIO,Strathclyde
+Balloch Central,"56.002983","-4.583539",BHC,Strathclyde
+Barassie,"55.5611","-4.651181",BSS,Strathclyde
+Bargeddie,"55.851776","-4.071789",BGI,Strathclyde
+Barnhill,"55.877895","-4.223463",BNL,Strathclyde
+Barrhead,"55.804535","-4.396411",BRR,Strathclyde
+Barrhill,"55.097031","-4.781834",BRL,Strathclyde
+Bearsden,"55.917202","-4.332945",BRN,Strathclyde
+Bellgrove,"55.857182","-4.22547",BLG,Strathclyde
+Bellshill,"55.816605","-4.025222",BLH,Strathclyde
+Bishopbriggs,"55.903927","-4.224958",BBG,Strathclyde
+Bishopton,"55.902206","-4.501637",BPT,Strathclyde
+Blairhill,"55.866653","-4.04221",BAI,Strathclyde
+Blantyre,"55.7976","-4.086466",BLT,Strathclyde
+Bogston,"55.937267","-4.713676",BGS,Strathclyde
+Bowling,"55.931129","-4.493879",BWG,Strathclyde
+Branchton,"55.940647","-4.803598",BCN,Strathclyde
+Bridge of Orchy,"56.515926","-4.763048",BRO,Strathclyde
+Bridgeton,"55.849968","-4.226668",BDG,Strathclyde
+Burnside,"55.817123","-4.204029",BUI,Strathclyde
+Busby,"55.780109","-4.262551",BUS,Strathclyde
+Caldercruix,"55.88791","-3.88978",CAC,Strathclyde
+Cambuslang,"55.819458","-4.173839",CBL,Strathclyde
+Cardonald,"55.853252","-4.340297",CDO,Strathclyde
+Cardross,"55.960163","-4.652782",CDR,Strathclyde
+Carfin,"55.806938","-3.956112",CRF,Strathclyde
+Carluke,"55.730408","-3.848761",CLU,Strathclyde
+Carmyle,"55.834053","-4.161873",CML,Strathclyde
+Carntyne,"55.854412","-4.17898",CAY,Strathclyde
+Carstairs,"55.69075","-3.668696",CRS,Strathclyde
+Cartsdyke,"55.942261","-4.731633",CDY,Strathclyde
+Cathcart,"55.817879","-4.261552",CCT,Strathclyde
+Charing Cross (Glasgow),"55.865345","-4.270689",CHC,Strathclyde
+Chatelherault,"55.76521","-4.00466",CTE,Strathclyde
+Clarkston,"55.789753","-4.275865",CKS,Strathclyde
+Cleland,"55.804073","-3.909695",CEA,Strathclyde
+Clydebank,"55.900562","-4.403927",CYK,Strathclyde
+Coatbridge Central,"55.863213","-4.032443",CBC,Strathclyde
+Coatbridge Sunnyside,"55.866886","-4.027847",CBS,Strathclyde
+Coatdyke,"55.864567","-4.005343",COA,Strathclyde
+Connel Ferry,"56.451981","-5.384973",CON,Strathclyde
+Corkerhill,"55.836494","-4.323322",CKH,Strathclyde
+Craigendoran,"55.99485","-4.711291",CGD,Strathclyde
+Croftfoot,"55.818455","-4.229643",CFF,Strathclyde
+Crookston,"55.84388","-4.36049",CKT,Strathclyde
+Crosshill,"55.833225","-4.257648",COI,Strathclyde
+Crossmyloof,"55.833626","-4.284813",CMY,Strathclyde
+Croy,"55.955734","-4.035697",CRO,Strathclyde
+Cumbernauld,"55.941326","-3.982089",CUB,Strathclyde
+Dalmally,"56.400272","-4.9832",DAL,Strathclyde
+Dalmarnock,"55.839371","-4.21647",DAK,Strathclyde
+Dalmuir,"55.911793","-4.427038",DMR,Strathclyde
+Dalreoch,"55.947365","-4.578226",DLR,Strathclyde
+Dalry,"55.705395","-4.711899",DLY,Strathclyde
+Drumchapel,"55.904926","-4.364204",DMC,Strathclyde
+Drumfrochar,"55.941292","-4.774822",DFR,Strathclyde
+Drumgelloch,"55.867233","-3.95114",DRU,Strathclyde
+Drumry,"55.904495","-4.386583",DMY,Strathclyde
+Duke Street,"55.859207","-4.212814",DST,Strathclyde
+Dumbarton Central,"55.946705","-4.56697",DBC,Strathclyde
+Dumbarton East,"55.942478","-4.55387",DBE,Strathclyde
+Dumbreck,"55.841255","-4.309216",DUM,Strathclyde
+Dunlop,"55.711926","-4.532435",DNL,Strathclyde
+Dunoon,"55.94681","-4.92252",DUO,Strathclyde
+East Kilbride,"55.765388","-4.18199",EKL,Strathclyde
+Easterhouse,"55.860157","-4.107389",EST,Strathclyde
+Exhibition Centre,"55.860619","-4.283207",EXG,Strathclyde
+Fairlie,"55.752514","-4.853834",FRL,Strathclyde
+Falls of Cruachan,"56.386242","-5.114992",FOC,Strathclyde
+Fort Matilda,"55.958809","-4.7953",FTM,Strathclyde
+Garelochhead,"56.079449","-4.826544",GCH,Strathclyde
+Garrowhill,"55.855286","-4.129497",GAR,Strathclyde
+Garscadden,"55.88784","-4.364757",GRS,Strathclyde
+Gartcosh,"55.885","-4.078",GRH,Strathclyde
+Giffnock,"55.804688","-4.294289",GFN,Strathclyde
+Gilshochill,"55.897295","-4.28201",GSC,Strathclyde
+Girvan,"55.246517","-4.848927",GIR,Strathclyde
+Glasgow Central,"55.860157","-4.259208",GLC,Strathclyde
+Glasgow Queen Street,"55.863003","-4.251385",GLQ,Strathclyde
+Glengarnock,"55.738579","-4.674364",GLG,Strathclyde
+Greenfaulds,"55.932064","-3.999232",GRL,Strathclyde
+Greenock Central,"55.945385","-4.752692",GKC,Strathclyde
+Greenock West,"55.94772","-4.768866",GKW,Strathclyde
+Hairmyres,"55.762012","-4.220047",HMY,Strathclyde
+Hamilton Central,"55.773239","-4.038928",HNC,Strathclyde
+Hamilton West,"55.779232","-4.056781",HNW,Strathclyde
+Hartwood,"55.810532","-3.839792",HTW,Strathclyde
+Hawkhead,"55.843136","-4.398792",HKH,Strathclyde
+Helensburgh Central,"56.004261","-4.732803",HLC,Strathclyde
+Helensburgh Upper,"56.013268","-4.73184",HLU,Strathclyde
+High Street,"55.858719","-4.239953",HST,Strathclyde
+Hillfoot,"55.920143","-4.32032",HLF,Strathclyde
+Hillington East,"55.854778","-4.354768",HLE,Strathclyde
+Hillington West,"55.85537","-4.370778",HLW,Strathclyde
+Holytown,"55.812943","-3.973967",HLY,Strathclyde
+Howwood,"55.811","-4.56",HOZ,Strathclyde
+Hyndland,"55.879803","-4.314715",HYN,Strathclyde
+Inverkip,"55.905781","-4.873089",INP,Strathclyde
+Irvine,"55.610916","-4.675196",IRV,Strathclyde
+Johnstone,"55.834759","-4.50369",JHN,Strathclyde
+Jordanhill,"55.882282","-4.326053",JOR,Strathclyde
+Kelvindale,"55.8933","-4.3106",KVD,Strathclyde
+Kennishead,"55.813099","-4.325119",KNS,Strathclyde
+Kilmarnock,"55.612835","-4.499048",KMK,Strathclyde
+Kilmaurs,"55.636425","-4.532331",KLM,Strathclyde
+Kilpatrick,"55.924755","-4.453454",KPT,Strathclyde
+Kilwinning,"55.655994","-4.710071",KWN,Strathclyde
+Kings Park,"55.819935","-4.247294",KGP,Strathclyde
+Kirkhill,"55.814156","-4.168751",KKH,Strathclyde
+Kirkwood,"55.85577","-4.048037",KWD,Strathclyde
+Lanark,"55.673119","-3.772901",LNK,Strathclyde
+Langbank,"55.924725","-4.586326",LGB,Strathclyde
+Langside,"55.821175","-4.277696",LGS,Strathclyde
+Largs,"55.792637","-4.867942",LAR,Strathclyde
+Larkhall,"55.739258","-3.974445",LRH,Strathclyde
+Lenzie,"55.921364","-4.153932",LNZ,Strathclyde
+Loch Awe,"56.402481","-5.040117",LHA,Strathclyde
+Lochwinnoch,"55.786549","-4.617038",LHW,Strathclyde
+Maryhill,"55.898026","-4.301396",MYH,Strathclyde
+Maxwell Park,"55.837124","-4.289813",MAX,Strathclyde
+Maybole,"55.354485","-4.686269",MAY,Strathclyde
+Merryton,"55.749013","-3.978667",MEY,Strathclyde
+Milliken Park,"55.825157","-4.533405",MIN,Strathclyde
+Milngavie,"55.94091","-4.315152",MLN,Strathclyde
+Mosspark,"55.838947","-4.336232",MPK,Strathclyde
+Motherwell,"55.791927","-3.995234",MTH,Strathclyde
+Mount Florida,"55.826859","-4.262067",MFL,Strathclyde
+Mount Vernon,"55.839882","-4.136638",MTV,Strathclyde
+Muirend,"55.810459","-4.273888",MUI,Strathclyde
+Neilston,"55.782364","-4.426945",NEI,Strathclyde
+New Cumnock,"55.402271","-4.182457",NCK,Strathclyde
+Newton,"55.819256","-4.133907",NTN,Strathclyde
+Newton-On-Ayr,"55.473541","-4.62632",NOA,Strathclyde
+Nitshill,"55.811531","-4.360126",NIT,Strathclyde
+Oban,"56.411758","-5.473841",OBN,Strathclyde
+Paisley Canal,"55.840878","-4.422606",PCN,Strathclyde
+Paisley Gilmour Street,"55.848026","-4.424646",PYG,Strathclyde
+Paisley St James,"55.852165","-4.442486",PYJ,Strathclyde
+Partick,"55.869987","-4.310921",PTK,Strathclyde
+Patterton,"55.790443","-4.334935",PTT,Strathclyde
+Pollokshaws East,"55.824589","-4.287476",PWE,Strathclyde
+Pollokshaws West,"55.824318","-4.301826",PWW,Strathclyde
+Pollokshields East,"55.841103","-4.269287",PLE,Strathclyde
+Pollokshields West,"55.83736","-4.277043",PLW,Strathclyde
+Port Glasgow,"55.9342","-4.689432",PTG,Strathclyde
+Possilpark & Parkhouse,"55.890717","-4.259381",PPK,Strathclyde
+Prestwick International Airport,"55.511513","-4.616166",PRA,Strathclyde
+Prestwick Town,"55.501675","-4.613935",PTW,Strathclyde
+Priesthill & Darnley,"55.812737","-4.344246",PTL,Strathclyde
+Queens Park (Glasgow),"55.835747","-4.267368",QPK,Strathclyde
+Renton,"55.970566","-4.586181",RTN,Strathclyde
+Robroyston,"55.887581","-4.172291",RRN,Strathclyde
+Rutherglen,"55.830448","-4.212766",RUT,Strathclyde
+Saltcoats,"55.633648","-4.784804",SLT,Strathclyde
+Scotstounhill,"55.884491","-4.351765",SCH,Strathclyde
+Shawlands,"55.828987","-4.292521",SHL,Strathclyde
+Shettleston,"55.852959","-4.159731",SLS,Strathclyde
+Shieldmuir,"55.775532","-3.952944",SDM,Strathclyde
+Shotts,"55.818302","-3.80024",SHS,Strathclyde
+Singer,"55.907711","-4.405983",SIN,Strathclyde
+Springburn,"55.881363","-4.230064",SPR,Strathclyde
+Stepps,"55.890026","-4.147389",SPS,Strathclyde
+Stevenston,"55.633533","-4.749829",STV,Strathclyde
+Stewarton,"55.681633","-4.519346",STT,Strathclyde
+Summerston,"55.89835","-4.283814",SUM,Strathclyde
+Taynuilt,"56.430714","-5.23868",TAY,Strathclyde
+Thornliebank,"55.810642","-4.312201",THB,Strathclyde
+Thorntonhall,"55.767746","-4.250674",THT,Strathclyde
+Troon,"55.543045","-4.654731",TRN,Strathclyde
+Uddingston,"55.823669","-4.086266",UDD,Strathclyde
+Wemyss Bay,"55.876656","-4.888525",WMS,Strathclyde
+West Kilbride,"55.696842","-4.851365",WKB,Strathclyde
+Westerton,"55.905479","-4.335444",WES,Strathclyde
+Whifflet,"55.852596","-4.022313",WFF,Strathclyde
+Whinhill,"55.938396","-4.746744",WNL,Strathclyde
+Whitecraigs,"55.790001","-4.310977",WCR,Strathclyde
+Williamwood,"55.79398","-4.290462",WLM,Strathclyde
+Wishaw,"55.772346","-3.927267",WSH,Strathclyde
+Woodhall,"55.931339","-4.655614",WDL,Strathclyde
+Yoker,"55.892792","-4.387464",YOK,Strathclyde
+Alloa,"56.1179","-3.7872",ALO,Central
+Bridge of Allan,"56.157429","-3.956166",BEA,Central
+Camelon,"56.006775","-3.817015",CMO,Central
+Crianlarich,"56.389652","-4.617778",CNR,Central
+Dunblane,"56.186001","-3.967296",DBL,Central
+Falkirk Grahamston,"56.002735","-3.786359",FKG,Central
+Falkirk High,"55.991863","-3.792276",FKK,Central
+Larbert,"56.022751","-3.830604",LBT,Central
+Polmont,"55.984856","-3.716614",PMT,Central
+Stirling,"56.119114","-3.934915",STG,Central
+Tyndrum Lower,"56.433407","-4.714873",TYL,Central
+Upper Tyndrum,"56.434551","-4.7036",UTY,Central
+Annan,"54.98386","-3.262603",ANN,Dumfries and Galloway
+Dumfries,"55.072395","-3.605261",DMF,Dumfries and Galloway
+Gretna Green,"55.001934","-3.064608",GEA,Dumfries and Galloway
+Kirkconnel,"55.38834","-3.998533",KRK,Dumfries and Galloway
+Lockerbie,"55.123085","-3.353242",LOC,Dumfries and Galloway
+Sanquhar,"55.370633","-3.923437",SQH,Dumfries and Galloway
+Addiewell,"55.843449","-3.60655",ADW,Lothian
+Armadale,"55.88639","-3.68504",ARM,Lothian
+Bathgate,"55.898678","-3.644019",BHG,Lothian
+Blackridge,"55.88368","-3.75047",BKR,Lothian
+Breich,"55.827351","-3.668147",BRC,Lothian
+Brunstane,"55.94143","-3.10064",BSU,Lothian
+Curriehill,"55.901703","-3.317849",CUH,Lothian
+Dalmeny,"55.986362","-3.381645",DAM,Lothian
+Drem,"56.005981","-2.785752",DRM,Lothian
+Dunbar,"55.998428","-2.514625",DUN,Lothian
+East Linton,"55.9856","-2.6579",ELT,Lothian
+Edinburgh Gateway,"55.941","-3.32",EGY,Lothian
+Edinburgh Park,"55.927615","-3.307829",EDP,Lothian
+Edinburgh Waverley,"55.952442","-3.188236",EDB,Lothian
+Eskbank,"55.88956","-3.07845",EKB,Lothian
+Fauldhouse,"55.822163","-3.719006",FLD,Lothian
+Gorebridge,"55.836732","-3.046099",GBG,Lothian
+Haymarket,"55.945854","-3.218458",HYM,Lothian
+Kingsknowe,"55.919323","-3.265634",KGE,Lothian
+Kirknewton,"55.888744","-3.432526",KKN,Lothian
+Linlithgow,"55.975689","-3.596",LIN,Lothian
+Livingston North,"55.901736","-3.543357",LSN,Lothian
+Livingston South,"55.871712","-3.503823",LVG,Lothian
+Longniddry,"55.976524","-2.889308",LND,Lothian
+Musselburgh,"55.930225","-3.062719",MUB,Lothian
+Newcraighall,"55.932619","-3.091582",NEW,Lothian
+Newtongrange,"55.865652","-3.066151",NEG,Lothian
+North Berwick,"56.057545","-2.728989",NBW,Lothian
+Prestonpans,"55.953426","-2.973665",PST,Lothian
+Shawfair,"55.91993","-3.07872",SFI,Lothian
+Slateford,"55.926731","-3.243476",SLA,Lothian
+South Gyle,"55.936951","-3.298234",SGL,Lothian
+Uphall,"55.919395","-3.499279",UHA,Lothian
+Wallyford,"55.942322","-3.013417",WAF,Lothian
+West Calder,"55.853848","-3.567045",WCL,Lothian
+Wester Hailes,"55.913727","-3.284654",WTA,Lothian
+Aberdour,"56.054646","-3.300575",AUR,Fife
+Burntisland,"56.057133","-3.233214",BTS,Fife
+Cameron Bridge,"56.189693","-3.046855",CBX,Fife
+Cardenden,"56.141308","-3.261651",CDD,Fife
+Cowdenbeath,"56.111679","-3.344314",COW,Fife
+Cupar,"56.317043","-3.008772",CUP,Fife
+Dalgety Bay,"56.044178","-3.354809",DAG,Fife
+Dunfermline Queen Margaret,"56.080706","-3.42164",DFL,Fife
+Dunfermline City,"56.068233","-3.452033",DFE,Fife
+Glenrothes with Thornton,"56.162224","-3.143189",GLT,Fife
+Inverkeithing,"56.034725","-3.39621",INK,Fife
+Kinghorn,"56.069389","-3.174161",KGH,Fife
+Kirkcaldy,"56.112579","-3.167445",KDY,Fife
+Ladybank,"56.273834","-3.122284",LDY,Fife
+Leuchars,"56.375427","-2.893734",LEU,Fife
+Lochgelly,"56.13538","-3.312958",LCG,Fife
+Markinch,"56.200069","-3.131414",MNC,Fife
+North Queensferry,"56.013168","-3.395426",NQU,Fife
+Rosyth,"56.046055","-3.427114",ROS,Fife
+Springfield,"56.295116","-3.051808",SPF,Fife
+Achanalt,"57.609921","-4.914243",AAT,Highland
+Achnasheen,"57.579205","-5.072421",ACN,Highland
+Achnashellach,"57.482697","-5.333001",ACH,Highland
+Alness,"57.694477","-4.249743",ASS,Highland
+Altnabreac,"58.388439","-3.705279",ABC,Highland
+Ardgay,"57.881119","-4.362604",ARD,Highland
+Arisaig,"56.912617","-5.839141",ARG,Highland
+Aviemore,"57.18914","-3.828348",AVM,Highland
+Banavie,"56.84338","-5.095477",BNV,Highland
+Beasdale,"56.899624","-5.763864",BSL,Highland
+Beauly,"57.478","-4.4698",BEL,Highland
+Brora,"58.012657","-3.853251",BRA,Highland
+Carrbridge,"57.279873","-3.829541",CAG,Highland
+Conon Bridge,"57.5617","-4.4404",CBD,Highland
+Corpach,"56.842724","-5.121662",CPA,Highland
+Corrour,"56.760181","-4.690966",CRR,Highland
+Culrain,"57.919842","-4.405676",CUA,Highland
+Dalwhinnie,"56.934334","-4.246498",DLW,Highland
+Dingwall,"57.594238","-4.422611",DIN,Highland
+Duirinish,"57.319847","-5.692103",DRN,Highland
+Dunrobin Castle,"57.986111","-3.946595",DNO,Highland
+Fearn,"57.777828","-3.994245",FRN,Highland
+Forsinard,"58.356998","-3.896903",FRS,Highland
+Fort William,"56.820625","-5.106721",FTW,Highland
+Garve,"57.613129","-4.688429",GVE,Highland
+Georgemas Junction,"58.513721","-3.45212",GGJ,Highland
+Glenfinnan,"56.872753","-5.449219",GLF,Highland
+Golspie,"57.971092","-3.98806",GOL,Highland
+Helmsdale,"58.117737","-3.660068",HMS,Highland
+Invergordon,"57.688587","-4.175563",IGD,Highland
+Inverness,"57.480194","-4.223199",INV,Highland
+Inverness Airport,"57.5335","-4.0552",IVA,Highland
+Invershin,"57.925362","-4.399288",INH,Highland
+Kildonan,"58.171432","-3.869993",KIL,Highland
+Kinbrace,"58.258408","-3.941063",KBC,Highland
+Kingussie,"57.07785","-4.052227",KIN,Highland
+Kyle of Lochalsh,"57.280567","-5.713067",KYL,Highland
+Lairg,"58.001701","-4.401",LRG,Highland
+Loch Eil Outward Bound,"56.855343","-5.191638",LHE,Highland
+Lochailort,"56.881035","-5.663456",LCL,Highland
+Lochluichart,"57.621277","-4.809628",LCC,Highland
+Mallaig,"57.005497","-5.8306",MLG,Highland
+Morar,"56.969788","-5.821991",MRR,Highland
+Muir of Ord,"57.518017","-4.460981",MOO,Highland
+Nairn,"57.580227","-3.873024",NRN,Highland
+Newtonmore,"57.059673","-4.118831",NWR,Highland
+Plockton,"57.333172","-5.666848",PLK,Highland
+Rogart,"57.988979","-4.158224",ROG,Highland
+Roy Bridge,"56.888184","-4.83645",RYB,Highland
+Scotscalder,"58.482891","-3.553764",SCT,Highland
+Spean Bridge,"56.889839","-4.920321",SBR,Highland
+Strathcarron,"57.422585","-5.429166",STC,Highland
+Stromeferry,"57.352688","-5.550702",STF,Highland
+Tain,"57.814651","-4.051826",TAI,Highland
+Thurso,"58.590092","-3.527548",THS,Highland
+Tulloch,"56.883984","-4.701509",TUL,Highland
+Wick,"58.441788","-3.097965",WCK,Highland
+Duns,"55.778865","-2.342808",DUU,Scottish Borders
+Earlston,"55.639072","-2.68",EAS,Scottish Borders
+Galashiels,"55.610426","-2.809693",GAL,Scottish Borders
+Hawick,"55.425478","-2.7822",HWK,Scottish Borders
+Melrose,"55.59753","-2.715786",MLS,Scottish Borders
+Reston,"55.8506","-2.1972",RSN,Scottish Borders
+Selkirk,"55.516089","-2.806171",SKK,Scottish Borders
+Stow,"55.691398","-2.857782",SOI,Scottish Borders
+Tweedbank,"55.604394","-2.764936",TWB,Scottish Borders
+Aberdovey,"52.543934","-4.057118",AVY,Gwynedd
+Abererch,"52.898567","-4.37423",ABH,Gwynedd
+Bangor (Gwynedd),"53.222902","-4.135505",BNG,Gwynedd
+Barmouth,"52.72287","-4.056641",BRM,Gwynedd
+Blaenau Ffestiniog,"52.996284","-3.944449",BFF,Gwynedd
+Bodorgan,"53.204292","-4.418067",BOR,Gwynedd
+Criccieth,"52.918312","-4.236972",CCC,Gwynedd
+Dyffryn Ardudwy,"52.78857","-4.104242",DYF,Gwynedd
+Fairbourne,"52.696018","-4.049464",FRB,Gwynedd
+Harlech,"52.861309","-4.109248",HRL,Gwynedd
+Holyhead,"53.307674","-4.631062",HHD,Gwynedd
+Llanbedr,"52.820835","-4.110252",LBR,Gwynedd
+Llandanwg,"52.835865","-4.124342",LDN,Gwynedd
+Llandecwyn,"52.920666","-4.057092",LLC,Gwynedd
+Llanfairpwll,"53.22094","-4.209263",LPG,Gwynedd
+Llwyngwril,"52.66658","-4.088024",LLW,Gwynedd
+Minffordd,"52.926464","-4.085625",MFF,Gwynedd
+Morfa Mawddach,"52.7071","-4.032224",MFA,Gwynedd
+Penrhyndeudraeth,"52.928623","-4.064905",PRH,Gwynedd
+Pensarn,"52.830692","-4.112216",PES,Gwynedd
+Penychain,"52.903","-4.33845",PNC,Gwynedd
+Porthmadog,"52.930954","-4.136431",PTM,Gwynedd
+Pwllheli,"52.887825","-4.416754",PWL,Gwynedd
+Rhosneigr,"53.234782","-4.505768",RHO,Gwynedd
+Talsarnau,"52.904289","-4.068213",TAL,Gwynedd
+Talybont,"52.772507","-4.097534",TLB,Gwynedd
+Tan-Y-Bwlch,"52.994685","-3.937079",TYB,Gwynedd
+Tonfanau,"52.613789","-4.123919",TNF,Gwynedd
+Ty Croes,"53.222885","-4.476033",TYC,Gwynedd
+Tygwyn,"52.893307","-4.079579",TYG,Gwynedd
+Tywyn,"52.584663","-4.092974",TYW,Gwynedd
+Valley,"53.281281","-4.563436",VAL,Gwynedd
+Abergele & Pensarn,"53.294758","-3.581343",AGL,Clwyd
+Betws-Y-Coed,"53.092056","-3.80091",BYC,Clwyd
+Buckley,"53.163021","-3.055948",BCK,Clwyd
+Caergwrle,"53.107922","-3.033069",CGW,Clwyd
+Cefn-Y-Bedd,"53.098511","-3.031972",CYB,Clwyd
+Chirk,"52.932793","-3.066708",CRK,Clwyd
+Colwyn Bay,"53.296349","-3.725462",CWB,Clwyd
+Conwy,"53.280093","-3.83046",CNW,Clwyd
+Deganwy,"53.294739","-3.833424",DGY,Clwyd
+Dolgarrog,"53.186123","-3.822808",DLG,Clwyd
+Dolwyddelan,"53.052105","-3.884288",DWD,Clwyd
+Flint,"53.249516","-3.13302",FLN,Clwyd
+Glan Conwy,"53.266644","-3.796892",GCW,Clwyd
+Gwersyllt,"53.072559","-3.017913",GWE,Clwyd
+Hawarden Bridge,"53.218971","-3.031866",HWB,Clwyd
+Hawarden,"53.185703","-3.032561",HWD,Clwyd
+Hope (Flintshire),"53.117344","-3.03691",HPE,Clwyd
+Llandudno,"53.320911","-3.827043",LLD,Clwyd
+Llandudno Junction,"53.283953","-3.809102",LLJ,Clwyd
+Llanfairfechan,"53.257278","-3.983256",LLF,Clwyd
+Llanrwst,"53.14401","-3.802844",LWR,Clwyd
+North Llanrwst,"53.141348","-3.792723",NLR,Clwyd
+Penmaenmawr,"53.270635","-3.923514",PMW,Clwyd
+Penyffordd,"53.143253","-3.055472",PNF,Clwyd
+Pont-Y-Pant,"53.065033","-3.862462",PYP,Clwyd
+Prestatyn,"53.336491","-3.407164",PRT,Clwyd
+Rhyl,"53.318409","-3.489144",RHL,Clwyd
+Roman Bridge,"53.044319","-3.92125",RMB,Clwyd
+Ruabon,"52.986935","-3.044214",RUA,Clwyd
+Shotton,"53.21352","-3.037728",SHT,Clwyd
+Tal-Y-Cafn,"53.228443","-3.818606",TLC,Clwyd
+Wrexham Central,"53.044876","-2.996385",WXC,Clwyd
+Wrexham General,"53.05022","-3.002467",WRX,Clwyd
+Builth Road,"52.169289","-3.427068",BHR,Powys
+Caersws,"52.516262","-3.43387",CWS,Powys
+Cilmeri,"52.150936","-3.45719",CIM,Powys
+Dolau,"52.295223","-3.263955",DOL,Powys
+Dovey Junction,"52.564133","-3.925273",DVY,Powys
+Garth (Powys),"52.133816","-3.531142",GTH,Powys
+Knucklas,"52.359833","-3.096907",KNU,Powys
+Llanbister Road,"52.336231","-3.212283",LLT,Powys
+Llandrindod,"52.242687","-3.37963",LLO,Powys
+Llangammarch,"52.113724","-3.55528",LLM,Powys
+Llangynllo,"52.350227","-3.161273",LGO,Powys
+Llanwrtyd,"52.104584","-3.632354",LNW,Powys
+Machynlleth,"52.595844","-3.854311",MCN,Powys
+Newtown (Powys),"52.512291","-3.311432",NWT,Powys
+Pen-Y-Bont,"52.273914","-3.321972",PNY,Powys
+Sugar Loaf,"52.082237","-3.686991",SUG,Powys
+Welshpool,"52.656998","-3.141297",WLP,Powys
+Aberystwyth,"52.414017","-4.081946",AYW,Dyfed
+Ammanford,"51.795933","-3.996783",AMF,Dyfed
+Borth,"52.491001","-4.050236",BRH,Dyfed
+Bow Street,"52.439914","-4.03036",BOW,Dyfed
+Bynea,"51.67276","-4.098396",BYE,Dyfed
+Carmarthen,"51.853233","-4.305732",CMN,Dyfed
+Clarbeston Road,"51.852207","-4.88221",CLR,Dyfed
+Clunderwen,"51.8405","-4.731915",CUW,Dyfed
+Cynghordy,"52.051689","-3.747095",CYN,Dyfed
+Ferryside,"51.76833","-4.36952",FYS,Dyfed
+Ffairfach,"51.87244","-3.992916",FFA,Dyfed
+Fishguard & Goodwick,"52.0035","-4.9948",FGW,Dyfed
+Haverfordwest,"51.802601","-4.960279",HVF,Dyfed
+Johnston,"51.756714","-4.996407",JOH,Dyfed
+Kidwelly,"51.734299","-4.317046",KWL,Dyfed
+Kilgetty,"51.732071","-4.715219",KGT,Dyfed
+Lamphey,"51.667145","-4.873332",LAM,Dyfed
+Llandeilo,"51.885117","-3.987662",LLL,Dyfed
+Llandovery,"51.99509","-3.803163",LLV,Dyfed
+Llandybie,"51.820099","-4.003658",LLI,Dyfed
+Llanelli,"51.673405","-4.162068",LLE,Dyfed
+Llangadog,"51.940639","-3.892638",LLG,Dyfed
+Llangennech,"51.691093","-4.078988",LLH,Dyfed
+Llanwrda,"51.962551","-3.871719",LNR,Dyfed
+Manorbier,"51.660114","-4.7919",MRB,Dyfed
+Milford Haven,"51.715977","-5.041485",MFH,Dyfed
+Narberth,"51.800156","-4.726567",NAR,Dyfed
+Pantyffynnon,"51.778835","-3.997481",PTF,Dyfed
+Pembrey & Burry Port,"51.683487","-4.247899",PBY,Dyfed
+Pembroke Dock,"51.69434","-4.93729",PMD,Dyfed
+Pembroke,"51.673546","-4.905563",PMB,Dyfed
+Penally,"51.65905","-4.72243",PNA,Dyfed
+Saundersfoot,"51.722084","-4.718965",SDF,Dyfed
+Tenby,"51.672897","-4.707348",TEN,Dyfed
+Whitland,"51.817989","-4.614454",WTL,Dyfed
+Baglan,"51.61549","-3.811182",BAJ,West Glamorgan
+Briton Ferry,"51.637852","-3.8193",BNF,West Glamorgan
+Gowerton,"51.648701","-4.035124",GWN,West Glamorgan
+Llansamlet,"51.660973","-3.892526",LAS,West Glamorgan
+Neath,"51.662315","-3.807267",NTH,West Glamorgan
+Pontarddulais,"51.716866","-4.045417",PTD,West Glamorgan
+Port Talbot Parkway,"51.591671","-3.781362",PTA,West Glamorgan
+Skewen,"51.660789","-3.847692",SKE,West Glamorgan
+Swansea,"51.625103","-3.941598",SWA,West Glamorgan
+Abercynon,"51.64262","-3.329549",ACY,Mid Glamorgan
+Aberdare,"51.715019","-3.44313",ABA,Mid Glamorgan
+Bridgend,"51.506481","-3.576296",BGN,Mid Glamorgan
+Cwmbach,"51.701885","-3.413774",CMH,Mid Glamorgan
+Dinas Rhondda,"51.617073","-3.437123",DMG,Mid Glamorgan
+Fernhill,"51.685932","-3.394469",FER,Mid Glamorgan
+Garth (Mid Glamorgan),"51.596413","-3.641504",GMG,Mid Glamorgan
+Llanharan,"51.53759","-3.4408",LLR,Mid Glamorgan
+Llwynypia,"51.633957","-3.453557",LLY,Mid Glamorgan
+Maesteg (Ewenny Road),"51.605297","-3.649038",MEW,Mid Glamorgan
+Maesteg,"51.610607","-3.655003",MST,Mid Glamorgan
+Merthyr Tydfil,"51.745476","-3.377458",MER,Mid Glamorgan
+Merthyr Vale,"51.686607","-3.336622",MEV,Mid Glamorgan
+Mountain Ash,"51.683422","-3.378478",MTA,Mid Glamorgan
+Pencoed,"51.524567","-3.50053",PCD,Mid Glamorgan
+Penrhiwceiber,"51.671906","-3.363662",PER,Mid Glamorgan
+Pentre-Bach,"51.724976","-3.362362",PTB,Mid Glamorgan
+Pontyclun,"51.524113","-3.390959",PYC,Mid Glamorgan
+Pontypridd,"51.599312","-3.342715",PPD,Mid Glamorgan
+Porth,"51.61203","-3.408079",POR,Mid Glamorgan
+Pyle,"51.527199","-3.702439",PYL,Mid Glamorgan
+Quakers Yard,"51.660686","-3.322844",QYD,Mid Glamorgan
+Sarn,"51.540049","-3.589196",SRR,Mid Glamorgan
+Taffs Well,"51.540848","-3.263129",TAF,Mid Glamorgan
+Ton Pentre,"51.647942","-3.485801",TPN,Mid Glamorgan
+Tondu,"51.548492","-3.595064",TDU,Mid Glamorgan
+Tonypandy,"51.61961","-3.450216",TNP,Mid Glamorgan
+Trefforest Estate,"51.568417","-3.2913",TRE,Mid Glamorgan
+Trefforest,"51.591419","-3.325157",TRF,Mid Glamorgan
+Trehafod,"51.609661","-3.380569",TRH,Mid Glamorgan
+Treherbert,"51.671577","-3.53575",TRB,Mid Glamorgan
+Treorchy,"51.657593","-3.504922",TRY,Mid Glamorgan
+Troed-Y-Rhiw,"51.71257","-3.346066",TRD,Mid Glamorgan
+Wildmill,"51.520824","-3.579684",WMI,Mid Glamorgan
+Ynyswen,"51.668095","-3.526959",YNW,Mid Glamorgan
+Ystrad Rhondda,"51.644478","-3.47557",YSR,Mid Glamorgan
+Barry Docks,"51.402393","-3.260749",BYD,South Glamorgan
+Barry Island,"51.392361","-3.273405",BYI,South Glamorgan
+Barry,"51.396729","-3.285023",BRY,South Glamorgan
+Birchgrove,"51.521687","-3.203502",BCG,South Glamorgan
+Cadoxton,"51.412422","-3.248087",CAD,South Glamorgan
+Cardiff Bay,"51.466324","-3.166049",CDB,South Glamorgan
+Cardiff Central,"51.475193","-3.177794",CDF,South Glamorgan
+Cardiff International Airport,"51.396667","-3.343333",XCF,South Glamorgan
+Cardiff Queen Street,"51.482464","-3.170782",CDQ,South Glamorgan
+Cathays,"51.488678","-3.178149",CYS,South Glamorgan
+Cogan,"51.445396","-3.189974",CGN,South Glamorgan
+Coryton,"51.520512","-3.230858",COY,South Glamorgan
+Danescourt,"51.505199","-3.23332",DCT,South Glamorgan
+Dinas Powys,"51.431614","-3.21839",DNS,South Glamorgan
+Dingle Road,"51.440109","-3.179776",DGL,South Glamorgan
+Eastbrook,"51.437126","-3.207031",EBK,South Glamorgan
+Fairwater,"51.491714","-3.232963",FRW,South Glamorgan
+Grangetown,"51.466984","-3.189097",GTN,South Glamorgan
+Heath High Level,"51.516518","-3.181737",HHL,South Glamorgan
+Heath Low Level,"51.515606","-3.183163",HLL,South Glamorgan
+Lisvane & Thornhill,"51.544357","-3.185344",LVT,South Glamorgan
+Llandaf,"51.507942","-3.229076",LLN,South Glamorgan
+Llanishen,"51.533592","-3.182181",LLS,South Glamorgan
+Llantwit Major,"51.40623","-3.47503",LWM,South Glamorgan
+Ninian Park,"51.475861","-3.200846",NNP,South Glamorgan
+Penarth,"51.435669","-3.173908",PEN,South Glamorgan
+Radyr,"51.515831","-3.248028",RDR,South Glamorgan
+Rhiwbina,"51.520687","-3.213561",RHI,South Glamorgan
+Rhoose Cardiff Airport,"51.387454","-3.347599",RIA,South Glamorgan
+Ty Glas,"51.519104","-3.193341",TGS,South Glamorgan
+Waun-Gron Park,"51.486366","-3.228492",WNG,South Glamorgan
+Whitchurch (Cardiff),"51.520599","-3.222209",WHT,South Glamorgan
+Aber,"51.575363","-3.23089",ABE,Gwent
+Abergavenny,"51.81665","-3.009679",AGV,Gwent
+Bargoed,"51.692268","-3.229717",BGD,Gwent
+Brithdir,"51.710266","-3.228765",BHD,Gwent
+Caerphilly,"51.571903","-3.217805",CPH,Gwent
+Caldicot,"51.58474","-2.760598",CDT,Gwent
+Chepstow,"51.640137","-2.67193",CPW,Gwent
+Crosskeys,"51.621","-3.1261",CKY,Gwent
+Cwmbran,"51.656544","-3.016233",CWM,Gwent
+Ebbw Vale Parkway,"51.7573","-3.1965",EBV,Gwent
+Ebbw Vale Town,"51.782007","-3.205996",EBB,Gwent
+Energlyn & Churchill Park,"51.5838","-3.2287",ECP,Gwent
+Gilfach Fargoed,"51.684208","-3.226604",GFF,Gwent
+Hengoed,"51.647362","-3.224162",HNG,Gwent
+Llanbradach,"51.60321","-3.233085",LNB,Gwent
+Llanhilleth,"51.700339","-3.137033",LTH,Gwent
+Newbridge,"51.665686","-3.142116",NBE,Gwent
+Newport (South Wales),"51.590145","-2.998873",NWP,Gwent
+Pengam,"51.670681","-3.230578",PGM,Gwent
+Pontlottyn,"51.74659","-3.278995",PLT,Gwent
+Pontypool and New Inn,"51.697926","-3.014277",PPL,Gwent
+Pye Corner,"51.579513","-3.038295",PYE,Gwent
+Rhymney,"51.759064","-3.289494",RHY,Gwent
+Risca & Pontymister,"51.60443","-3.093533",RCA,Gwent
+Rogerstone,"51.593413","-3.065478",ROR,Gwent
+Severn Tunnel Junction,"51.584629","-2.777917",STJ,Gwent
+Tir-Phil,"51.72086","-3.246424",TIR,Gwent
+Ystrad Mynach,"51.640884","-3.241342",YSM,Gwent
+Belfast Central,"54.5953","-5.9172",BFC,Antrim
+Althorpe,"53.585262","-0.732558",ALP,
+Ardrossan Harbour,"55.640854","-4.823461",ADS,
+Attadale,"57.394871","-5.456549",ATT,
+Cleethorpes,"53.56316","-0.029584",CLE,
+Duncraig,"57.336727","-5.637282",DCG,
+East Cowes,"50.75873","-1.29107",ECW,
+Fishguard Harbour,"52.011505","-4.985713",FGH,
+Gourock,"55.962788","-4.818021",GRK,
+Gourock Pier,"55.9628","-4.81475",GXX,
+Grange-Over-Sands,"54.195282","-2.902752",GOS,
+Harwich International,"51.947701","1.255167",HPQ,
+Lelant,"50.183887","-5.436207",LEL,
+Leven,"56.1923","-3.002",LEV,
+Llanaber,"52.741375","-4.078263",LLA,
+Locheilside,"56.855473","-5.290086",LCS,
+London Blackfriars,"51.510735","-0.103554",BFR,
+Penhelig,"52.545212","-4.035051",PHG,
+Portsmouth Harbour,"50.796097","-1.108895",PMH,
+Ryde Esplanade,"50.733517","-1.159676",RYD,
+Ryde Pier Head,"50.738914","-1.159578",RYP,
+Southampton Town Quay,"50.895035","-1.405778",STQ,
+Starcross,"50.627731","-3.447757",SCS,
+Stranraer,"54.909626","-5.024806",STR,
+Tilbury Riverside,"51.451862","0.36467",TBR,
+Wapping,"51.50372","-0.05629",WPE,
+Yarmouth (Isle of Wight),"50.70765","-1.50002",YMH,
